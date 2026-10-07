@@ -1,0 +1,20 @@
+{
+  "name": "fisat-web-makeup",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static redesign of the FISAT website with a scroll-driven walk-through-the-gates hero.",
+  "type": "module",
+  "scripts": {
+    "build": "node _build/build.mjs",
+    "serve": "node _build/serve.mjs",
+    "start": "node _build/build.mjs && node _build/serve.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Vijaysivadas/fisat-web-makeup.git"
+  },
+  "author": "Vijay Sivadas"
+}

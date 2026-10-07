@@ -1,0 +1,75 @@
+# ---------------------------------------------------------------
+# FISAT redesign — static site (HTML/CSS/JS) + Node page generator
+# Generated pages ARE committed: they are the deployable site.
+# ---------------------------------------------------------------
+
+# ---- Operating systems ----------------------------------------
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+desktop.ini
+$RECYCLE.BIN/
+*.lnk
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+# Linux
+*~
+.directory
+.Trash-*
+
+# ---- OneDrive / Office lock & conflict files --------------------
+~$*
+.~lock.*#
+*.laccdb
+
+# ---- Editors & IDEs ---------------------------------------------
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+.history/
+
+# ---- Node -------------------------------------------------------
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.npm/
+.pnpm-store/
+
+# ---- Python (scraping / image helper scripts) -------------------
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# ---- Environment & secrets --------------------------------------
+.env
+.env.*
+!.env.example
+
+# ---- Logs, temp files, caches -----------------------------------
+*.log
+*.tmp
+*.temp
+*.bak
+.cache/
+tmp/
+temp/
+
+# ---- Local tooling ----------------------------------------------
+.claude/settings.local.json
+.lighthouseci/
+playwright-report/
+test-results/
