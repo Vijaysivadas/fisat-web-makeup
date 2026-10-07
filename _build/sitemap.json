@@ -1,0 +1,220 @@
+{
+  "sections": [
+    {
+      "id": "about", "title": "About", "hero": "main-gemini",
+      "blurb": "Established in 2002 by the Federal Bank Officers' Association Educational Society.",
+      "pages": [
+        { "path": "about/index.html", "url": "institution/", "title": "The Institution", "custom": "institution" },
+        { "path": "about/vision-mission.html", "url": "vision/", "title": "Vision and Mission", "custom": "vision" },
+        { "path": "about/founder.html", "url": "founder/", "title": "Our Founder Chairman", "custom": "founder" },
+        { "path": "about/newsletter.html", "url": "newsletter/", "title": "Newsletter" },
+        { "path": "about/location.html", "url": "location/", "title": "Location", "custom": "location" },
+        { "path": "about/contact.html", "url": "contact/", "title": "Contact Us", "custom": "contact" }
+      ]
+    },
+    {
+      "id": "governance", "title": "Governance", "hero": "frame-gate",
+      "blurb": "The people, councils and offices that steer FISAT.",
+      "pages": [
+        { "path": "governance/people-behind.html", "url": "people-behind/", "title": "People Behind", "custom": "people-behind" },
+        { "path": "governance/governing-body.html", "url": "governing-body/", "title": "Governing Body" },
+        { "path": "governance/academic-council.html", "url": "academic-council/", "title": "Academic Council" },
+        { "path": "governance/advisory-board.html", "url": "advisory/", "title": "Advisory Board" },
+        { "path": "governance/principal.html", "url": "principal/", "title": "The Principal", "custom": "principal" },
+        { "path": "governance/academic-heads.html", "url": "academics/", "title": "Academic Heads", "custom": "academic-heads" },
+        { "path": "governance/organogram.html", "url": "organogram/", "title": "Organogram" },
+        { "path": "governance/faculty.html", "url": "faculty/", "title": "Faculty Directory", "custom": "faculty" },
+        { "path": "governance/administration.html", "url": "official/", "title": "Administration", "custom": "administration" },
+        { "path": "governance/careers.html", "url": "careers/", "title": "Careers", "custom": "careers" }
+      ]
+    },
+    {
+      "id": "academics", "title": "Academics", "hero": "frame-arch",
+      "blurb": "Seven B.Tech programmes, M.Tech, MBA, MCA and doctoral research.",
+      "pages": [
+        { "path": "academics/index.html", "title": "Programmes Offered", "custom": "programmes" },
+        { "path": "academics/ug-programs.html", "url": "ug-programs/", "title": "UG Programmes" },
+        { "path": "academics/pg-programs.html", "url": "pg-programs/", "title": "PG Programmes" },
+        { "path": "departments/index.html", "title": "Departments", "custom": "departments" },
+        { "path": "academics/syllabus.html", "url": "syllabus/", "title": "Syllabus", "custom": "syllabus" },
+        { "path": "academics/academic-calendar.html", "url": "academic-calendar/", "title": "Academic Calendar" },
+        { "path": "academics/handbook.html", "url": "college-calendar-and-handbook/", "title": "College Calendar and Handbook" },
+        { "path": "academics/nptel.html", "url": "nptel/", "title": "NPTEL Local Chapter" }
+      ]
+    },
+    {
+      "id": "admissions", "title": "Admissions", "hero": "frame-arch",
+      "blurb": "B.Tech, M.Tech, MBA, MCA and hostel admissions.",
+      "pages": [
+        { "path": "admissions/index.html", "url": "admission/", "title": "Admissions", "custom": "admissions" }
+      ]
+    },
+    {
+      "id": "placements", "title": "Placements", "hero": "main-gemini",
+      "blurb": "One of the largest placement records among self-financing engineering colleges in Kerala.",
+      "pages": [
+        { "path": "placements/index.html", "url": "placements/", "title": "Placements", "custom": "placements" }
+      ]
+    },
+    {
+      "id": "facilities", "title": "Facilities", "hero": "aerial",
+      "blurb": "Labs, hostels, sports, transport and everything in between on a 40-acre campus.",
+      "pages": [
+        { "path": "facilities/index.html", "url": "facility/", "title": "Facilities", "custom": "facilities" },
+        { "path": "facilities/idea-lab.html", "url": "facility/idea-lab/", "title": "AICTE IDEA Lab" },
+        { "path": "facilities/central-computing-facility.html", "url": "facility/central-computing-facility/", "title": "Central Computing Facility" },
+        { "path": "facilities/it-infrastructure.html", "url": "facility/it-infrastructure/", "title": "IT Infrastructure" },
+        { "path": "facilities/centre-for-future-skills.html", "url": "facility/centre-for-future-skills/", "title": "Centre for Future Skills" },
+        { "path": "facilities/language-lab.html", "url": "facility/language-lab/", "title": "Language Lab" },
+        { "path": "facilities/robotics-lab.html", "url": "facility/robotics-lab/", "alt": ["robotics-lab/"], "title": "Robotics Lab" },
+        { "path": "facilities/hostel.html", "url": "facility/hostel/", "title": "Hostel" },
+        { "path": "facilities/sports-and-games.html", "url": "facility/sports-and-games/", "title": "Sports and Games" },
+        { "path": "facilities/fitness-centre.html", "url": "facility/fitness-centre/", "alt": ["fitness-centre/"], "title": "Fitness Centre" },
+        { "path": "facilities/cafeteria.html", "url": "facility/cafeteria/", "title": "Cafeteria" },
+        { "path": "facilities/conveyance.html", "url": "facility/conveyance/", "title": "Conveyance", "custom": "conveyance" },
+        { "path": "facilities/bank-atm.html", "url": "bank-and-atm/", "alt": ["facility/bank-atm/"], "title": "Bank and ATM" },
+        { "path": "facilities/arts.html", "url": "arts/", "title": "Arts" },
+        { "path": "facilities/ict-classrooms.html", "url": "ict-enabled-classrooms-and-seminar-halls/", "title": "ICT Enabled Classrooms and Seminar Halls", "custom": "ict" }
+      ]
+    },
+    {
+      "id": "library", "title": "Library", "hero": "main-gemini",
+      "blurb": "83,650+ volumes, 5,000+ e-journals and a fully automated Library & Information Centre.",
+      "pages": [
+        { "path": "library/index.html", "url": "library/", "alt": ["library/?py=130"], "title": "About the Library" },
+        { "path": "library/digital-library.html", "url": "library/?py=142", "title": "Digital Library" },
+        { "path": "library/services.html", "url": "library/?py=139", "title": "Library Services and Facilities" },
+        { "path": "library/catalog.html", "url": "library/?py=144", "title": "Library Catalog" },
+        { "path": "library/committee.html", "url": "library/?py=228", "title": "Library Committee" },
+        { "path": "library/ndli-club.html", "url": "library/?py=229", "alt": ["ndli-club/"], "title": "NDLI Club" },
+        { "path": "library/plagiarism-checking.html", "url": "library/?py=239", "title": "Plagiarism Checking" },
+        { "path": "library/remote-access.html", "url": "library/?py=131", "title": "E-library Remote Access" },
+        { "path": "library/book-request.html", "url": "library/?py=238", "title": "New Book Request" },
+        { "path": "library/useful-links.html", "url": "library/?py=140", "title": "Useful Links" },
+        { "path": "library/gallery.html", "url": "library/?py=145", "title": "Library Gallery" },
+        { "path": "library/rules.html", "url": "library/?py=133", "title": "Library Rules" },
+        { "path": "library/contact.html", "url": "library/?py=141", "title": "Contact Library" }
+      ]
+    },
+    {
+      "id": "campus-life", "title": "Campus Life", "hero": "gemini",
+      "blurb": "Clubs, chapters, culture and care: life at Hormis Nagar.",
+      "groups": ["Overview", "Well-being & Support", "Student Development", "Professional Chapters"],
+      "pages": [
+        { "path": "campus-life/index.html", "url": "campus-life/", "title": "Campus Life", "group": "Overview", "custom": "campus-life" },
+        { "path": "campus-life/happenings.html", "url": "activitycategory/", "title": "Happenings at FISAT", "group": "Overview", "custom": "happenings" },
+        { "path": "campus-life/anti-ragging.html", "url": "anti-ragging/", "title": "Anti Ragging", "group": "Well-being & Support" },
+        { "path": "campus-life/grievance-redressal.html", "url": "grievance-redressal/", "title": "Student Grievance Redressal", "group": "Well-being & Support" },
+        { "path": "campus-life/internal-complaints-committee.html", "url": "internal-complaints-committtee/", "title": "Internal Complaints Committee", "group": "Well-being & Support" },
+        { "path": "campus-life/mentoring-system.html", "url": "mentoring-system/", "title": "Mentoring System", "group": "Well-being & Support" },
+        { "path": "campus-life/discipline-committee.html", "url": "discipline-committee/", "title": "Discipline Committee", "group": "Well-being & Support" },
+        { "path": "campus-life/counselling-services.html", "url": "counselling-services/", "title": "Counselling Services", "group": "Well-being & Support" },
+        { "path": "campus-life/medical-care.html", "url": "campus-well-being-student-support/medical-care/", "title": "Medical Care", "group": "Well-being & Support" },
+        { "path": "campus-life/staff-welfare.html", "url": "staff-welfare/", "title": "Staff Welfare", "group": "Well-being & Support" },
+        { "path": "campus-life/rules-and-regulations.html", "url": "rules-and-regulations/", "title": "Rules and Regulations", "group": "Well-being & Support" },
+        { "path": "campus-life/alumni.html", "url": "alumni/", "title": "Alumni (FISTAA)", "group": "Student Development" },
+        { "path": "campus-life/pta.html", "url": "pta/", "title": "PTA", "group": "Student Development" },
+        { "path": "campus-life/student-council.html", "url": "student-council-2/", "title": "Student Council", "group": "Student Development" },
+        { "path": "campus-life/nss.html", "url": "nss/", "title": "NSS", "group": "Student Development" },
+        { "path": "campus-life/ncc.html", "url": "ncc/", "title": "NCC", "group": "Student Development" },
+        { "path": "campus-life/student-magazine.html", "url": "campus-life/student-magazine/", "title": "Student Magazine", "group": "Student Development" },
+        { "path": "campus-life/arts-club.html", "url": "arts-club/", "title": "Arts Club", "group": "Student Development" },
+        { "path": "campus-life/rolling-stone.html", "url": "rolling-stone-literary-association/", "title": "Rolling Stone (Literary Association)", "group": "Student Development" },
+        { "path": "campus-life/swan-nature-club.html", "url": "swan-nature-club/", "title": "SWAN (Nature Club)", "group": "Student Development" },
+        { "path": "campus-life/ffsc.html", "url": "ffsc/", "title": "FISAT Free Software Cell", "group": "Student Development" },
+        { "path": "campus-life/tedx-fisat.html", "url": "tedx-fisat/", "title": "TEDx FISAT", "group": "Student Development" },
+        { "path": "campus-life/sparc.html", "url": "sparc/", "title": "SPARC", "group": "Student Development" },
+        { "path": "campus-life/maths-club.html", "url": "maths-club-fisat/", "title": "Maths Club", "group": "Student Development" },
+        { "path": "campus-life/ieee.html", "url": "ieee/", "title": "IEEE Student Branch", "group": "Professional Chapters" },
+        { "path": "campus-life/isaca.html", "url": "isaca/", "title": "ISACA", "group": "Professional Chapters" },
+        { "path": "campus-life/iste.html", "url": "iste/", "title": "ISTE", "group": "Professional Chapters" }
+      ]
+    },
+    {
+      "id": "research", "title": "Research", "hero": "frame-main",
+      "blurb": "Research centres, funded projects, patents and publications.",
+      "pages": [
+        { "path": "research/index.html", "url": "college-research-cell/", "title": "Research & Development Cell" },
+        { "path": "research/supervisors.html", "url": "college-research-cell/research-supervisors/", "title": "Research Supervisors" },
+        { "path": "research/scholars.html", "url": "research-scholars/", "title": "Research Scholars" },
+        { "path": "research/activities.html", "url": "college-research-cell/activities-of-rd-cell/", "title": "Activities of R&D Cell" },
+        { "path": "research/publications.html", "url": "publications/", "title": "Publications" },
+        { "path": "research/grants.html", "url": "college-research-cell/grants-and-funded-projects/", "title": "Grants and Funded Projects" },
+        { "path": "research/mous-and-collaborations.html", "url": "mous-and-collaborations/", "title": "MoUs and Collaborations" },
+        { "path": "research/ipr-cell.html", "url": "iprlist/", "title": "IPR Cell" },
+        { "path": "research/jasetm.html", "url": "college-research-cell/journal-of-applied-science-engineering-technology-and-management-jasetm/", "title": "JASETM Journal" }
+      ]
+    },
+    {
+      "id": "industry", "title": "Industry", "hero": "frame-arch",
+      "blurb": "Industry partnerships, incubation and innovation councils.",
+      "pages": [
+        { "path": "industry/index.html", "url": "industry-interaction/", "title": "Industry Interaction" },
+        { "path": "industry/iiic.html", "url": "iiic/", "title": "IIIC" },
+        { "path": "industry/iedc.html", "url": "iedc/", "title": "IEDC" },
+        { "path": "industry/fablab.html", "url": "fablab/", "title": "Fab Lab" },
+        { "path": "industry/iic.html", "url": "iic/", "title": "Institution's Innovation Council" },
+        { "path": "industry/federal-labz.html", "url": "federal-labz/", "title": "Federal Labz Incubation Centre" },
+        { "path": "industry/mous.html", "url": "mous/", "title": "MoUs" }
+      ]
+    },
+    {
+      "id": "iqac", "title": "IQAC", "hero": "frame-main",
+      "blurb": "The Internal Quality Assurance Cell and accreditation records.",
+      "groups": ["About", "Reports & Accreditation", "Quality", "Strategic Plan", "Code of Conduct"],
+      "pages": [
+        { "path": "iqac/index.html", "url": "iqac/?py=5", "alt": ["iqac/", "iqac"], "title": "About IQAC", "group": "About" },
+        { "path": "iqac/objectives.html", "url": "iqac/?py=7", "title": "Objectives and Functions", "group": "About" },
+        { "path": "iqac/vision-mission.html", "url": "iqac/?py=6", "title": "IQAC Vision and Mission", "group": "About" },
+        { "path": "iqac/core-committee.html", "url": "iqac/?py=78", "title": "IQAC Core Committee", "group": "About" },
+        { "path": "iqac/annual-reports.html", "url": "iqac/?py=143", "title": "IQAC Annual Reports", "group": "Reports & Accreditation" },
+        { "path": "iqac/institution-annual-reports.html", "url": "iqac/?py=134", "title": "Institution Annual Reports", "group": "Reports & Accreditation" },
+        { "path": "iqac/aqar.html", "url": "iqac/?py=10", "title": "AQAR", "group": "Reports & Accreditation" },
+        { "path": "iqac/naac.html", "url": "iqac/?py=81", "title": "NAAC", "group": "Reports & Accreditation" },
+        { "path": "iqac/nba.html", "url": "iqac/?py=82", "title": "NBA", "group": "Reports & Accreditation" },
+        { "path": "iqac/nirf.html", "url": "iqac/?py=83", "title": "NIRF Reports", "group": "Reports & Accreditation" },
+        { "path": "iqac/quality-policy.html", "url": "iqac/?py=79", "title": "Quality Policy and Initiatives", "group": "Quality" },
+        { "path": "iqac/meeting-minutes.html", "url": "iqac/?py=80", "title": "Meeting Minutes & ATR", "group": "Quality" },
+        { "path": "iqac/institutional-values.html", "url": "iqac/?py=84", "title": "Institutional Values", "group": "Quality" },
+        { "path": "iqac/distinctiveness.html", "url": "iqac/?py=85", "title": "Distinctiveness", "group": "Quality" },
+        { "path": "iqac/best-practices.html", "url": "iqac/?py=86", "title": "Best Practices", "group": "Quality" },
+        { "path": "iqac/strategic-plan.html", "url": "iqac/?py=137", "title": "Strategic Plan", "group": "Strategic Plan" },
+        { "path": "iqac/strategic-plan-deployment.html", "url": "iqac/?py=88", "title": "Deployment of Strategic Plan", "group": "Strategic Plan" },
+        { "path": "iqac/curriculum-feedback.html", "url": "iqac/?py=89", "title": "Curriculum Feedback", "group": "Strategic Plan" },
+        { "path": "iqac/institutional-development-plan.html", "url": "iqac/?py=231", "title": "Institutional Development Plan", "group": "Strategic Plan" },
+        { "path": "iqac/code-of-conduct-staff.html", "url": "iqac/?py=93", "title": "Code of Conduct: Staff", "group": "Code of Conduct" },
+        { "path": "iqac/code-of-conduct-governing-body.html", "url": "iqac/?py=157", "title": "Code of Conduct: Governing Body", "group": "Code of Conduct" },
+        { "path": "iqac/code-of-conduct-students.html", "url": "iqac/?py=94", "title": "Code of Conduct: Students", "group": "Code of Conduct" },
+        { "path": "iqac/code-of-conduct-administrators.html", "url": "iqac/?py=158", "title": "Code of Conduct: Administrators", "group": "Code of Conduct" }
+      ]
+    },
+    {
+      "id": "compliance", "title": "Information", "hero": "frame-gate",
+      "blurb": "Statutory disclosures, approvals, rankings and committees.",
+      "pages": [
+        { "path": "info/nirf.html", "url": "nirf/", "title": "NIRF" },
+        { "path": "info/ugc-compliance.html", "url": "ugc-compliance/", "title": "UGC Compliance" },
+        { "path": "info/mandatory-disclosure.html", "url": "mandatory-disclosures/", "alt": ["mandatory-disclosure/"], "title": "Mandatory Disclosure" },
+        { "path": "info/approvals.html", "url": "approvals/", "title": "Approvals" },
+        { "path": "info/audited-statements.html", "url": "audited-statements/", "title": "Audited Statements" },
+        { "path": "info/ariia-rankings.html", "url": "ariia-rankings/", "title": "ARIIA Rankings" },
+        { "path": "info/2f-status.html", "url": "2f-status/", "title": "2(f) Status" },
+        { "path": "info/committees.html", "url": "committees/", "title": "Committees" },
+        { "path": "info/sc-st-committee.html", "url": "sc-st-committee/", "title": "Committee for SC/ST" },
+        { "path": "info/equal-opportunity-cell.html", "url": "equal-opportunity-cell/", "title": "Equal Opportunity Cell" },
+        { "path": "info/sedg-cell.html", "url": "socio-economically-disadvantaged-group-cell/", "title": "SEDG Cell" },
+        { "path": "info/accessibility-committee.html", "url": "committee-for-accessibility-standards-and-inclusive-practices/", "title": "Accessibility Standards Committee" },
+        { "path": "info/oia.html", "url": "oia/", "title": "Office of International Affairs" }
+      ]
+    },
+    {
+      "id": "news", "title": "News & Events", "hero": "frame-main",
+      "blurb": "What's happening at FISAT.",
+      "pages": [
+        { "path": "news/index.html", "url": "news/", "title": "News", "custom": "news" },
+        { "path": "news/events.html", "url": "event/", "title": "Events", "custom": "events" },
+        { "path": "news/announcements.html", "url": "announcement/", "title": "Announcements", "custom": "announcements" }
+      ]
+    }
+  ]
+}

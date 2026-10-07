@@ -1,0 +1,2072 @@
+[
+ {
+  "name": "Dr. Abi P Mathew",
+  "dept": "eie",
+  "deptName": "Electronics and Instrumentation Engineering",
+  "role": "Professor",
+  "email": "abimathew@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a3752.webp"
+ },
+ {
+  "name": "Dr. Ambili A R",
+  "dept": "ece",
+  "deptName": "Electronics and Communication Engineering",
+  "role": "Associate Professor",
+  "email": "ambili_ar@fisat.ac.in",
+  "phone": "+91-484-2725-031",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a4044.webp"
+ },
+ {
+  "name": "Dr. Anil Johny",
+  "dept": "eie",
+  "deptName": "Electronics and Instrumentation Engineering",
+  "role": "Associate Professor & HoD",
+  "email": "aniljohny@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a4479.webp"
+ },
+ {
+  "name": "Dr. Anil Joseph",
+  "dept": "ce",
+  "deptName": "Civil Engineering",
+  "role": "Adjunct Faculty Member",
+  "email": "",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2024-02-anil-joseph.webp"
+ },
+ {
+  "name": "Dr. Anil Kumar M N",
+  "dept": "ece",
+  "deptName": "Electronics and Communication Engineering",
+  "role": "Professor",
+  "email": "mn_anilkumar@fisat.ac.in",
+  "phone": "+91-484-2725-237",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a3883.webp"
+ },
+ {
+  "name": "Dr. Anish Mathew K",
+  "dept": "eie",
+  "deptName": "Electronics and Instrumentation Engineering",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "anishmathewk@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a4036.webp"
+ },
+ {
+  "name": "Dr. Anoo Anna Anthony",
+  "dept": "mba",
+  "deptName": "Business Administration",
+  "role": "Professor",
+  "email": "anooantony@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-08-0a3a2874.webp"
+ },
+ {
+  "name": "Dr. Anoop K N",
+  "dept": "ce",
+  "deptName": "Civil Engineering",
+  "role": "Assistant Professor (On Contract)",
+  "email": "anoopkn@fisat.ac.in",
+  "phone": "+91-484-2725-014",
+  "img": "{{root}}assets/img/fisat/2026-02-anoop.webp"
+ },
+ {
+  "name": "Dr. Archana R",
+  "dept": "eee",
+  "deptName": "Electrical and Electronics Engineering",
+  "role": "Professor & Member Secretary",
+  "email": "archana@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-06-ar.webp"
+ },
+ {
+  "name": "Dr. Arun Gopi",
+  "dept": "sh",
+  "deptName": "Science and Humanities",
+  "role": "Assistant Professor (On Contract)",
+  "email": "arungopi@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2025-10-arun-gopi-original.webp"
+ },
+ {
+  "name": "Dr. Arun Kumar M N",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Professor",
+  "email": "akmar_mn11@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a3810.webp"
+ },
+ {
+  "name": "Dr. Asha Joseph",
+  "dept": "ce",
+  "deptName": "Civil Engineering",
+  "role": "Professor",
+  "email": "ashameledath@fisat.ac.in",
+  "phone": "+91-484-2725-014",
+  "img": "{{root}}assets/img/fisat/2022-07-asha-joseph.webp"
+ },
+ {
+  "name": "Dr. Ayswarya E P",
+  "dept": "sh",
+  "deptName": "Science and Humanities",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "ayswaryaep@fisat.ac.in",
+  "phone": "+91-484-2725-282",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a3942.webp"
+ },
+ {
+  "name": "Dr. Basil K Jeemon",
+  "dept": "ece",
+  "deptName": "Electronics and Communication Engineering",
+  "role": "Assistant Professor (Special Grade)",
+  "email": "basilkjeemon@fisat.ac.in",
+  "phone": "+91-484-2725-031",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a2882.webp"
+ },
+ {
+  "name": "Dr. Beena B R",
+  "dept": "ce",
+  "deptName": "Civil Engineering",
+  "role": "Associate Professor",
+  "email": "beenabr@fisat.ac.in",
+  "phone": "+91-484-2725-026",
+  "img": "{{root}}assets/img/fisat/2022-07-beena.webp"
+ },
+ {
+  "name": "Dr. Bejoy Varghese",
+  "dept": "ece",
+  "deptName": "Electronics and Communication Engineering",
+  "role": "Associate Professor & HoD",
+  "email": "bejoyvarghese@fisat.ac.in",
+  "phone": "9446029662",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a4687.webp"
+ },
+ {
+  "name": "Dr. Biji U Nair",
+  "dept": "mba",
+  "deptName": "Business Administration",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "bijiunair@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-08-0a3a3800.webp"
+ },
+ {
+  "name": "Dr. Deepa Mary Mathews",
+  "dept": "mca",
+  "deptName": "Computer Applications",
+  "role": "Associate Professor",
+  "email": "deepamarymathews@fisat.ac.in",
+  "phone": "9446429980",
+  "img": "{{root}}assets/img/fisat/2022-06-img-20240315-wa0003.webp"
+ },
+ {
+  "name": "Dr. Devi Parvathy S",
+  "dept": "me",
+  "deptName": "Mechanical Engineering",
+  "role": "Associate Professor",
+  "email": "d_parvathy@fisat.ac.in",
+  "phone": "0484-2725272",
+  "img": "{{root}}assets/img/fisat/2022-10-0a3a4042.webp"
+ },
+ {
+  "name": "Dr. Elizabeth George",
+  "dept": "mba",
+  "deptName": "Business Administration",
+  "role": "Director",
+  "email": "elizabethgeorge@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2024-10-dr.-elizabeth-george.webp"
+ },
+ {
+  "name": "Dr. Harish T M",
+  "dept": "me",
+  "deptName": "Mechanical Engineering",
+  "role": "Assistant Professor (Special Grade)",
+  "email": "harishtm@fisat.ac.in",
+  "phone": "0484-2725272",
+  "img": "{{root}}assets/img/fisat/2022-10-0a3a4643.webp"
+ },
+ {
+  "name": "Dr. Hema Krishnan",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Associate Professor",
+  "email": "hemakrishnan@fisat.ac.in",
+  "phone": "04842725237",
+  "img": "{{root}}assets/img/fisat/2022-06-screenshot-2026-07-21-173344.webp"
+ },
+ {
+  "name": "Dr. Ierin Babu(On Contract)",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Assistant Professor",
+  "email": "ierinbabu@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2024-07-ierin.webp"
+ },
+ {
+  "name": "Dr. Jacob Thomas V",
+  "dept": "ece",
+  "deptName": "Electronics and Communication Engineering",
+  "role": "Principal & Professor",
+  "email": "",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2026-01-dr.-jacob-thomas-v.webp"
+ },
+ {
+  "name": "Dr. Jiji Antony",
+  "dept": "ce",
+  "deptName": "Civil Engineering",
+  "role": "Professor",
+  "email": "jijiantony@fisat.ac.in",
+  "phone": "+91-484-2725-275",
+  "img": "{{root}}assets/img/fisat/2022-07-a-scaled.webp"
+ },
+ {
+  "name": "Dr. Jose Cherian",
+  "dept": "me",
+  "deptName": "Mechanical Engineering",
+  "role": "Professor and Dean (DQA)",
+  "email": "josecherian@fisat.ac.in",
+  "phone": "0484-2725272",
+  "img": "{{root}}assets/img/fisat/2022-10-0a3a4505.webp"
+ },
+ {
+  "name": "Dr. Jose Varghese",
+  "dept": "mba",
+  "deptName": "Business Administration",
+  "role": "Professor",
+  "email": "josevarghese@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-08-0a3a3799.webp"
+ },
+ {
+  "name": "Dr. Jyothish K John",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "DEAN and Controller of Examinations",
+  "email": "jyothish@fisat.ac.in",
+  "phone": "04842725225",
+  "img": "{{root}}assets/img/fisat/2022-07-jyothish.webp"
+ },
+ {
+  "name": "Dr. Kavitha P.E",
+  "dept": "ce",
+  "deptName": "Civil Engineering",
+  "role": "Professor & HoD",
+  "email": "kavithape@fisat.ac.in",
+  "phone": "+91-484-2725-025",
+  "img": "{{root}}assets/img/fisat/2022-07-whatsapp-image-2025-09-19-at-11.53.01-am-1-e1758266891743.webp"
+ },
+ {
+  "name": "Dr. Keerthi G Nair",
+  "dept": "sh",
+  "deptName": "Science and Humanities",
+  "role": "Assistant Professor",
+  "email": "keerthignair@fisat.ac.in",
+  "phone": "+91-484-2725-282",
+  "img": "{{root}}assets/img/fisat/2022-06-9399.webp"
+ },
+ {
+  "name": "Dr. Manju Joy",
+  "dept": "mca",
+  "deptName": "Computer Applications",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "manjujoy@fisat.ac.in",
+  "phone": "8086794078",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a3840.webp"
+ },
+ {
+  "name": "Dr. Megha Mohan",
+  "dept": "ce",
+  "deptName": "Civil Engineering",
+  "role": "Assistant Professor (On Contract)",
+  "email": "meghamohan@fisat.ac.in",
+  "phone": "+91-484-2725-041",
+  "img": "{{root}}assets/img/fisat/2026-07-whatsapp-image-2026-07-01-at-3.53.12-pm.webp"
+ },
+ {
+  "name": "Dr. Mini P R",
+  "dept": "ece",
+  "deptName": "Electronics and Communication Engineering",
+  "role": "Vice Principal",
+  "email": "mini@fisat.ac.in",
+  "phone": "+91-484-2725-205",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a3989.webp"
+ },
+ {
+  "name": "Dr. Neenu Johnson",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Associate Professor",
+  "email": "neenujohnson@fisat.ac.in",
+  "phone": "04842725237",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a4683.webp"
+ },
+ {
+  "name": "Dr. Nishanth R",
+  "dept": "ece",
+  "deptName": "Electronics and Communication Engineering",
+  "role": "Assistant Professor",
+  "email": "",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2026-07-nishanth-r.webp"
+ },
+ {
+  "name": "Dr. Nishida A",
+  "dept": "ce",
+  "deptName": "Civil Engineering",
+  "role": "Assistant Professor (On Contract)",
+  "email": "nishida@fisat.ac.in",
+  "phone": "+91-484-2725-041",
+  "img": "{{root}}assets/img/fisat/2026-01-whatsapp-image-2026-01-15-at-4.59.26-pm.webp"
+ },
+ {
+  "name": "Dr. Paul P Mathai",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Professor & HoD",
+  "email": "paulpmathai@fisat.ac.in",
+  "phone": "04842725225",
+  "img": "{{root}}assets/img/fisat/2022-06-whatsapp-image-2026-07-25-at-9.38.35-pm.webp"
+ },
+ {
+  "name": "Dr. Rakhi Venugopal",
+  "dept": "mca",
+  "deptName": "Computer Applications",
+  "role": "Associate Prodessor",
+  "email": "rakhivenu@fisat.ac.in",
+  "phone": "9961871731",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a4551.webp"
+ },
+ {
+  "name": "Dr. Rejeesh C R",
+  "dept": "me",
+  "deptName": "Mechanical Engineering",
+  "role": "Professor & HoD",
+  "email": "rejeeshcr@fisat.ac.in",
+  "phone": "0484-2725272",
+  "img": "{{root}}assets/img/fisat/2022-10-0a3a2884.webp"
+ },
+ {
+  "name": "Dr. Reshmi R",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Associate Professor",
+  "email": "reshmiajay@fisat.ac.in",
+  "phone": "04842725237",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a3839.webp"
+ },
+ {
+  "name": "Dr. Rishi Ramakrishnan L",
+  "dept": "me",
+  "deptName": "Mechanical Engineering",
+  "role": "Assistant Professor (On Contract)",
+  "email": "rishiramakrishnan@fisat.ac.in",
+  "phone": "0484-2725272",
+  "img": "{{root}}assets/img/fisat/2026-06-rishi.webp"
+ },
+ {
+  "name": "Dr. Rose Mary Mathew",
+  "dept": "mca",
+  "deptName": "Computer Applications",
+  "role": "Associate Professor",
+  "email": "rosemary@fisat.ac.in",
+  "phone": "9495195532",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a3818.webp"
+ },
+ {
+  "name": "Dr. S Sundararajan",
+  "dept": "eie",
+  "deptName": "Electronics and Instrumentation Engineering",
+  "role": "Associate Professor",
+  "email": "ssundar@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a2862.webp"
+ },
+ {
+  "name": "Dr. Santhosh Kottam",
+  "dept": "mca",
+  "deptName": "Computer Applications",
+  "role": "Professor",
+  "email": "santhoshkottam@fisat.ac.in",
+  "phone": "9446437774",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a2909-e1676624522173.webp"
+ },
+ {
+  "name": "Dr. Shahna K U",
+  "dept": "mca",
+  "deptName": "Computer Applications",
+  "role": "Associate Professor & HoD",
+  "email": "shahnakakkatt@fisat.ac.in",
+  "phone": "9495009474",
+  "img": "{{root}}assets/img/fisat/2022-06-nas-new.webp"
+ },
+ {
+  "name": "Dr. Sindhu George",
+  "dept": "mba",
+  "deptName": "Business Administration",
+  "role": "Associate Professor",
+  "email": "sindhu@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-07-sindhu-george.webp"
+ },
+ {
+  "name": "Dr. Siyamol Chirakkarottu",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Associate Professor",
+  "email": "siyaanil@fisat.ac.in",
+  "phone": "04842725237",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a4461.webp"
+ },
+ {
+  "name": "Dr. Sona Narayanan",
+  "dept": "sh",
+  "deptName": "Science and Humanities",
+  "role": "Assistant Professor (Special Grade)",
+  "email": "sonanarayanan@fisat.ac.in",
+  "phone": "+91-484-2725-282",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a4458.webp"
+ },
+ {
+  "name": "Dr. Sreenish S R",
+  "dept": "mba",
+  "deptName": "Business Administration",
+  "role": "Assistant Professor(Senior Grade)",
+  "email": "sreenishsr@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2023-11-sreenish_fisat.webp"
+ },
+ {
+  "name": "Dr. Sujesh P Lal",
+  "dept": "mca",
+  "deptName": "Computer Applications",
+  "role": "Associate Professor",
+  "email": "sujeshlal@fisat.ac.in",
+  "phone": "9447477080",
+  "img": "{{root}}assets/img/fisat/2022-06-sujesh.webp"
+ },
+ {
+  "name": "Dr. Sumanlal M R",
+  "dept": "me",
+  "deptName": "Mechanical Engineering",
+  "role": "Professor and Dean (DOST)",
+  "email": "sumanlal@fisat.ac.in",
+  "phone": "0484-2725272",
+  "img": "{{root}}assets/img/fisat/2022-10-0a3a3969.webp"
+ },
+ {
+  "name": "Dr. Sumayya Naznin P H",
+  "dept": "ce",
+  "deptName": "Civil Engineering",
+  "role": "Assistant Professor(Special Grade)",
+  "email": "sumayyanaznin@fisat.ac.in",
+  "phone": "+91-484-2725-014",
+  "img": "{{root}}assets/img/fisat/2022-07-sumayya.webp"
+ },
+ {
+  "name": "Dr. Surya Natarajan",
+  "dept": "eee",
+  "deptName": "Electrical and Electronics Engineering",
+  "role": "Associate Professor",
+  "email": "suryanatarajan@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-07-sn.webp"
+ },
+ {
+  "name": "Dr. Unni Kartha G",
+  "dept": "ce",
+  "deptName": "Civil Engineering",
+  "role": "Dean (Planning & Development / R&D / International Relations)",
+  "email": "unnikartha@fisat.ac.in",
+  "phone": "+91-484-2725-303",
+  "img": "{{root}}assets/img/fisat/2023-05-dr.webp"
+ },
+ {
+  "name": "Dr. Unnikrishnan S",
+  "dept": "ce",
+  "deptName": "Civil Engineering",
+  "role": "Assistant Professor (On Contract)",
+  "email": "unks@fisat.ac.in",
+  "phone": "+91-484-2725-014",
+  "img": "{{root}}assets/img/fisat/2026-01-whatsapp-image-2026-01-06-at-4.48.25-pm.webp"
+ },
+ {
+  "name": "Dr.Parvathy.R",
+  "dept": "eee",
+  "deptName": "Electrical and Electronics Engineering",
+  "role": "Professor",
+  "email": "parvathyrani@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-07-pr.webp"
+ },
+ {
+  "name": "Dr.Rinku Scaria",
+  "dept": "eee",
+  "deptName": "Electrical and Electronics Engineering",
+  "role": "Assistant Professor(Special Grade)",
+  "email": "rinkuscaria@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-07-rks.webp"
+ },
+ {
+  "name": "Dr.Sreevidya P",
+  "dept": "eie",
+  "deptName": "Electronics and Instrumentation Engineering",
+  "role": "Associate Professor",
+  "email": "sreevidyap@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-06-sreevidya-1.webp"
+ },
+ {
+  "name": "Dr.Surya Susan Alex",
+  "dept": "eee",
+  "deptName": "Electrical and Electronics Engineering",
+  "role": "Associate Professor & HoD",
+  "email": "suryasusanalex@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-06-ssa.webp"
+ },
+ {
+  "name": "Lt. Dr. Prasad J C",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Professor ,Associate NCC Officer",
+  "email": "prasad@fisat.ac.in",
+  "phone": "04842725235",
+  "img": "{{root}}assets/img/fisat/2022-06-pjc.webp"
+ },
+ {
+  "name": "Mr. Abin Thomas C A",
+  "dept": "ce",
+  "deptName": "Civil Engineering",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "abinabraham@fisat.ac.in",
+  "phone": "+91-484-2725-014",
+  "img": "{{root}}assets/img/fisat/2022-07-0a3a2879.webp"
+ },
+ {
+  "name": "Mr. Amal Dev T S",
+  "dept": "sh",
+  "deptName": "Science and Humanities",
+  "role": "Assistant Professor",
+  "email": "amaldevt@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-06-amal-1.webp"
+ },
+ {
+  "name": "Mr. Anish Menachery",
+  "dept": "mba",
+  "deptName": "Business Administration",
+  "role": "Assistant Professor",
+  "email": "anish.menachery@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2025-06-whatsapp-image-2025-06-10-at-4.21.03-pm.webp"
+ },
+ {
+  "name": "Mr. Anoop E G",
+  "dept": "ece",
+  "deptName": "Electronics and Communication Engineering",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "anoop.eg@fisat.ac.in",
+  "phone": "+91-484-2725-237",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a3882.webp"
+ },
+ {
+  "name": "Mr. Anoop Sankar",
+  "dept": "me",
+  "deptName": "Mechanical Engineering",
+  "role": "Assistant Professor (Special Grade)",
+  "email": "anoopsankar@fisat.ac.in",
+  "phone": "0484-2725272",
+  "img": "{{root}}assets/img/fisat/2022-10-0a3a3815.webp"
+ },
+ {
+  "name": "Mr. Arun J Kulangara",
+  "dept": "me",
+  "deptName": "Mechanical Engineering",
+  "role": "Assistant Professor",
+  "email": "arunjkulangara@fisat.ac.in",
+  "phone": "0484-2725272",
+  "img": "{{root}}assets/img/fisat/2022-10-0a3a4003.webp"
+ },
+ {
+  "name": "Mr. Benoy Abraham",
+  "dept": "ece",
+  "deptName": "Electronics and Communication Engineering",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "benoyab@fisat.ac.in",
+  "phone": "+91-484-2725-237",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a4501.webp"
+ },
+ {
+  "name": "Mr. Dileep G",
+  "dept": "me",
+  "deptName": "Mechanical Engineering",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "dileepg@fisat.ac.in",
+  "phone": "0484-2725272",
+  "img": "{{root}}assets/img/fisat/2022-10-0a3a3813.webp"
+ },
+ {
+  "name": "Mr. Febin Raju",
+  "dept": "eee",
+  "deptName": "Electrical and Electronics Engineering",
+  "role": "Assistant Professor (on contract)",
+  "email": "febinraju@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2026-01-whatsapp-image-2026-01-19-at-15.58.09.webp"
+ },
+ {
+  "name": "Mr. Jinesh Vinayachandran",
+  "dept": "me",
+  "deptName": "Mechanical Engineering",
+  "role": "Adjunct Faculty",
+  "email": "jinesh.vinayachandran@gmail.com",
+  "phone": "0484-2725272",
+  "img": "{{root}}assets/img/fisat/2026-09-jinesh.webp"
+ },
+ {
+  "name": "Mr. Joseph Pappachan",
+  "dept": "me",
+  "deptName": "Mechanical Engineering",
+  "role": "Assistant Professor (On Contract)",
+  "email": "Josephpappachan@fisat.ac.in",
+  "phone": "0484-2725272",
+  "img": "{{root}}assets/img/fisat/2023-09-whatsapp-image-2023-09-21-at-4.06.56-pm.webp"
+ },
+ {
+  "name": "Mr. Likhil Gopalan",
+  "dept": "me",
+  "deptName": "Mechanical Engineering",
+  "role": "Assistant Professor (On Contract)",
+  "email": "likhilgopalan@fisat.ac.in",
+  "phone": "0484-2725272",
+  "img": "{{root}}assets/img/fisat/2023-09-whatsapp-image-2023-09-21-at-8.41.14-pm.webp"
+ },
+ {
+  "name": "Mr. Mahesh C",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Assistant Professor (Senior Grade) cum Chief Technical Officer",
+  "email": "mahesh@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a4689.webp"
+ },
+ {
+  "name": "Mr. Nithin Rajan",
+  "dept": "mca",
+  "deptName": "Computer Applications",
+  "role": "Assistant Professor (Special Grade)",
+  "email": "nithinrajan@fisat.ac.in",
+  "phone": "9605406205",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a2918.webp"
+ },
+ {
+  "name": "Mr. Nizamudeen Akbar",
+  "dept": "sh",
+  "deptName": "Science and Humanities",
+  "role": "Assistant Professor (Special Grade)",
+  "email": "nizamudeenakbar@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a3780.webp"
+ },
+ {
+  "name": "Mr. Pankaj Kumar G",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Assistant Professor (Special Grade) & Senior Solutions Architect",
+  "email": "pankaj@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a3809.webp"
+ },
+ {
+  "name": "Mr. Prasanth V",
+  "dept": "mba",
+  "deptName": "Business Administration",
+  "role": "Assistant Professor (Special Grade)",
+  "email": "prasanthv@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-07-prasanth_fisat.webp"
+ },
+ {
+  "name": "Mr. Prashanth P John",
+  "dept": "mba",
+  "deptName": "Business Administration",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "prashanthpjohn@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-07-prashanth-p-john_photo.webp"
+ },
+ {
+  "name": "Mr. Praveen V",
+  "dept": "mba",
+  "deptName": "Business Administration",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "praveenv@fisat.ac.in",
+  "phone": "04842725257",
+  "img": "{{root}}assets/img/fisat/2022-08-0a3a4588.webp"
+ },
+ {
+  "name": "Mr. Priyadarshi Dutt",
+  "dept": "me",
+  "deptName": "Mechanical Engineering",
+  "role": "Assistant Professor (On Contract)",
+  "email": "priyadarshi.mech@fisat.ac.in",
+  "phone": "0484-2725272",
+  "img": "{{root}}assets/img/fisat/2025-08-dutt-1.webp"
+ },
+ {
+  "name": "Mr. Sajan S",
+  "dept": "me",
+  "deptName": "Mechanical Engineering",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "sajans@fisat.ac.in",
+  "phone": "0484-2725272",
+  "img": "{{root}}assets/img/fisat/2022-10-0a3a4429.webp"
+ },
+ {
+  "name": "Mr. Sarath S",
+  "dept": "me",
+  "deptName": "Mechanical Engineering",
+  "role": "Assistant Professor (On Contract)",
+  "email": "saraths@fisat.ac.in",
+  "phone": "0484-2725272",
+  "img": "{{root}}assets/img/fisat/2025-09-sarath-poto-1.webp"
+ },
+ {
+  "name": "Mr. Sreejesh K",
+  "dept": "me",
+  "deptName": "Mechanical Engineering",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "sreejeshk@fisat.ac.in",
+  "phone": "0484-2725272",
+  "img": "{{root}}assets/img/fisat/2022-10-0a3a4465.webp"
+ },
+ {
+  "name": "Mr. Sreerath S",
+  "dept": "ce",
+  "deptName": "Civil Engineering",
+  "role": "Assistant Professor (Special Grade)",
+  "email": "sreeraths@fisat.ac.in",
+  "phone": "+91-484-2725-014",
+  "img": "{{root}}assets/img/fisat/2022-07-0a3a2864.webp"
+ },
+ {
+  "name": "Mr. Stany E George",
+  "dept": "eee",
+  "deptName": "Electrical and Electronics Engineering",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "stanygeorge@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-07-sg.webp"
+ },
+ {
+  "name": "Mr. Sumesh G",
+  "dept": "sh",
+  "deptName": "Science and Humanities",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "sumeshg@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a3965.webp"
+ },
+ {
+  "name": "Mr. Syam K",
+  "dept": "me",
+  "deptName": "Mechanical Engineering",
+  "role": "Assistant Professor (On Contract)",
+  "email": "syamk@fisat.ac.in",
+  "phone": "0484-2725272",
+  "img": "{{root}}assets/img/fisat/2025-08-shyam-sir.webp"
+ },
+ {
+  "name": "Mr. Thomas Philip",
+  "dept": "sh",
+  "deptName": "Science and Humanities",
+  "role": "Assistant Professor (Special Grade)",
+  "email": "thomas.philip@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a3887.webp"
+ },
+ {
+  "name": "Mr. Vishnu Mohan K",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Adjunct Faculty",
+  "email": "vishnumohan.k123@gmail.com",
+  "phone": "9496265813",
+  "img": "{{root}}assets/img/fisat/2026-02-vishnu.webp"
+ },
+ {
+  "name": "Mr.Prince Mattom",
+  "dept": "me",
+  "deptName": "Mechanical Engineering",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "princemattams@fisat.ac.in",
+  "phone": "0484-2725272",
+  "img": "{{root}}assets/img/fisat/2022-10-0a3a4534.webp"
+ },
+ {
+  "name": "Mr.Rahul V",
+  "dept": "me",
+  "deptName": "Mechanical Engineering",
+  "role": "Assistant Professor (Special Grade)",
+  "email": "rahulvasu@fisat.ac.in",
+  "phone": "0484-2725272",
+  "img": "{{root}}assets/img/fisat/2022-10-0a3a4444.webp"
+ },
+ {
+  "name": "Mr.Raju M D",
+  "dept": "me",
+  "deptName": "Mechanical Engineering",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "rajumd@fisat.ac.in",
+  "phone": "0484-2725272",
+  "img": "{{root}}assets/img/fisat/2022-10-0a3a4431.webp"
+ },
+ {
+  "name": "Mr.Srijith Rajeev",
+  "dept": "me",
+  "deptName": "Mechanical Engineering",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "srejithrajeev@fisat.ac.in",
+  "phone": "0484-2725272",
+  "img": "{{root}}assets/img/fisat/2022-10-0a3a4560.webp"
+ },
+ {
+  "name": "Mr.Tom Anto",
+  "dept": "me",
+  "deptName": "Mechanical Engineering",
+  "role": "Assistant Professor (Special Grade)",
+  "email": "tomanto@fisat.ac.in",
+  "phone": "0484-2725272",
+  "img": "{{root}}assets/img/fisat/2022-10-0a3a4423.webp"
+ },
+ {
+  "name": "Mr.Unnikrishnan S Nair",
+  "dept": "me",
+  "deptName": "Mechanical Engineering",
+  "role": "Assistant Professor (Special Grade)",
+  "email": "unnikrishnansnair@fisat.ac.in",
+  "phone": "0484-2725272",
+  "img": "{{root}}assets/img/fisat/2022-10-0a3a3972.webp"
+ },
+ {
+  "name": "Ms. Abhiya Abbas Mundol",
+  "dept": "ce",
+  "deptName": "Civil Engineering",
+  "role": "Assistant Professor(Special Grade)",
+  "email": "abhiyamundol@fisat.ac.in",
+  "phone": "+91-484-2725-014",
+  "img": "{{root}}assets/img/fisat/2022-07-0a3a4598.webp"
+ },
+ {
+  "name": "Ms. Aiswariya Raj",
+  "dept": "ece",
+  "deptName": "Electronics and Communication Engineering",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "aiswarya@fisat.ac.in",
+  "phone": "+91-484-2725-237",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a4039-1.webp"
+ },
+ {
+  "name": "Ms. Amala Mary",
+  "dept": "mba",
+  "deptName": "Business Administration",
+  "role": "Assistant Professor",
+  "email": "amalamary@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-08-0a3a4595.webp"
+ },
+ {
+  "name": "Ms. Anagha R",
+  "dept": "ce",
+  "deptName": "Civil Engineering",
+  "role": "Assistant Professor (On Contract)",
+  "email": "anaghar@fisat.ac.in",
+  "phone": "+91-484-2725-041",
+  "img": "{{root}}assets/img/fisat/2026-06-anagha-1-1.jpg.webp"
+ },
+ {
+  "name": "Ms. Ancy Antony(On Contract)",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Assistant Professor",
+  "email": "ancyantony@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2025-07-whatsapp-image-2025-07-28-at-10.08.43-am.webp"
+ },
+ {
+  "name": "Ms. Anila Mathew",
+  "dept": "eie",
+  "deptName": "Electronics and Instrumentation Engineering",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "anilamathew@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a4639.webp"
+ },
+ {
+  "name": "Ms. Anisha Antu(On Contract)",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Assistant Professor",
+  "email": "anishaantu@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2024-09-pp-.webp"
+ },
+ {
+  "name": "Ms. Anitha T Nair",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "anitha.mrt@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a3831.webp"
+ },
+ {
+  "name": "Ms. Anju L",
+  "dept": "mca",
+  "deptName": "Computer Applications",
+  "role": "Assistant Professor (Special Grade)",
+  "email": "anjul@fisat.ac.in",
+  "phone": "9446274182",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a4553.webp"
+ },
+ {
+  "name": "Ms. Anna Rose Varghese",
+  "dept": "ce",
+  "deptName": "Civil Engineering",
+  "role": "Assistant Professor (Special Grade)",
+  "email": "annarosev@fisat.ac.in",
+  "phone": "+91-484-2725-041",
+  "img": "{{root}}assets/img/fisat/2022-07-0a3a4546.webp"
+ },
+ {
+  "name": "Ms. Arya Chandran",
+  "dept": "sh",
+  "deptName": "Science and Humanities",
+  "role": "Assistant Professor",
+  "email": "aryachandran@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2023-06-whatsapp-image-2023-07-03-at-7.32.31-pm.webp"
+ },
+ {
+  "name": "Ms. Aswathy M A",
+  "dept": "sh",
+  "deptName": "Science and Humanities",
+  "role": "Assistant Professor",
+  "email": "aswathyashokan@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2023-06-whatsapp-image-2023-07-03-at-7.32.21-pm.webp"
+ },
+ {
+  "name": "Ms. Beenu Riju",
+  "dept": "eie",
+  "deptName": "Electronics and Instrumentation Engineering",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "beenuriju@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a4679.webp"
+ },
+ {
+  "name": "Ms. Bini V K",
+  "dept": "ece",
+  "deptName": "Electronics and Communication Engineering",
+  "role": "Assistant Professor (Special Grade)",
+  "email": "binivk@fisat.ac.in",
+  "phone": "+91-484-2725-029",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a4033-1.webp"
+ },
+ {
+  "name": "Ms. Chethna Joy",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "chethnajoy@fisat.ac.in",
+  "phone": "04842725237",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a4531.webp"
+ },
+ {
+  "name": "Ms. Christy Jose",
+  "dept": "ece",
+  "deptName": "Electronics and Communication Engineering",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "christyjose@fisat.ac.in",
+  "phone": "+91-484-2725-237",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a3854-1.webp"
+ },
+ {
+  "name": "Ms. Deena Jose(On Contract)(On Contract)",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Assistant Professor",
+  "email": "deenajose@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2025-07-img_20241105_143337.webp"
+ },
+ {
+  "name": "Ms. Deepa N R",
+  "dept": "ece",
+  "deptName": "Electronics and Communication Engineering",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "deepanr@fisat.ac.in",
+  "phone": "+91-484-2725-029",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a2838.webp"
+ },
+ {
+  "name": "Ms. Dhanya S",
+  "dept": "ece",
+  "deptName": "Electronics and Communication Engineering",
+  "role": "Assistant Professor (Special Grade)",
+  "email": "dhanyas@fisat.ac.in",
+  "phone": "+91-484-2725-031",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a2897.webp"
+ },
+ {
+  "name": "Ms. Dhanya T G",
+  "dept": "sh",
+  "deptName": "Science and Humanities",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "dhanyatg@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a3772.webp"
+ },
+ {
+  "name": "Ms. Divya John",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "divyajohn@fisat.ac.in",
+  "phone": "04842725237",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a4684.webp"
+ },
+ {
+  "name": "Ms. Elza George",
+  "dept": "ece",
+  "deptName": "Electronics and Communication Engineering",
+  "role": "Assistant Professor (Special Grade)",
+  "email": "elzageorge@fisat.ac.in",
+  "phone": "+91-484-2725-029",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a3950-1.webp"
+ },
+ {
+  "name": "Ms. Gayathri I K",
+  "dept": "ece",
+  "deptName": "Electronics and Communication Engineering",
+  "role": "Assistant Professor (Special Grade)",
+  "email": "gayathrik@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a4547-1.webp"
+ },
+ {
+  "name": "Ms. Gayathri I K",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Assistant Professor (Special Grade)",
+  "email": "gayathrik@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a4547-1.webp"
+ },
+ {
+  "name": "Ms. Geethu P.C(On Contract)",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Assistant Professor",
+  "email": "geethupc@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2025-07-passport-size-photo.webp"
+ },
+ {
+  "name": "Ms. Gisha P S",
+  "dept": "sh",
+  "deptName": "Science and Humanities",
+  "role": "Assistant Professor (Senior Grade) & HOD",
+  "email": "gishaps@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a3763.webp"
+ },
+ {
+  "name": "Ms. Hansa J Thattil",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "hansa@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a4529.webp"
+ },
+ {
+  "name": "Ms. Honey Devassy",
+  "dept": "eie",
+  "deptName": "Electronics and Instrumentation Engineering",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "honeydevassy@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a2828.webp"
+ },
+ {
+  "name": "Ms. Honeymol P Chacko",
+  "dept": "sh",
+  "deptName": "Science and Humanities",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "honeymolchacko@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a3979.webp"
+ },
+ {
+  "name": "Ms. Jeslin P Jo",
+  "dept": "ece",
+  "deptName": "Electronics and Communication Engineering",
+  "role": "Assistant Professor (Special Grade)",
+  "email": "jeslin@fisat.ac.in",
+  "phone": "+91-484-2725-031",
+  "img": "{{root}}assets/img/fisat/2022-06-jeslin.webp"
+ },
+ {
+  "name": "Ms. Jilu George",
+  "dept": "ece",
+  "deptName": "Electronics and Communication Engineering",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "jilugeo@fisat.ac.in",
+  "phone": "+91-484-2725-237",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a3842-1.webp"
+ },
+ {
+  "name": "Ms. Jishna N V(On Contract)",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Assistant Professor",
+  "email": "jishnanv@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2025-07-1000505722.webp"
+ },
+ {
+  "name": "Ms. Jismy Mathew",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Assistant Professor (Special Grade)",
+  "email": "jismymathew@fisat.ac.in",
+  "phone": "04842725237",
+  "img": "{{root}}assets/img/fisat/2022-06-whatsapp-image-2025-09-17-at-9.04.59-pm1-e1758185934577.webp"
+ },
+ {
+  "name": "Ms. Joice .T",
+  "dept": "mca",
+  "deptName": "Computer Applications",
+  "role": "Assistant Professor (Special Grade)",
+  "email": "joice@fisat.ac.in",
+  "phone": "9846102111",
+  "img": "{{root}}assets/img/fisat/2022-06-img-20251216-wa0002.webp"
+ },
+ {
+  "name": "Ms. Karthika V",
+  "dept": "sh",
+  "deptName": "Science and Humanities",
+  "role": "Assistant Professor",
+  "email": "karthikav@fisat.ac.in",
+  "phone": "+91-484-2725-224",
+  "img": "{{root}}assets/img/fisat/2023-02-0a3a4602.webp"
+ },
+ {
+  "name": "Ms. Keerthi Sabu",
+  "dept": "ce",
+  "deptName": "Civil Engineering",
+  "role": "Assistant Professor (Special Grade)",
+  "email": "keerthisabu@fisat.ac.in",
+  "phone": "+91-484-2725-041",
+  "img": "{{root}}assets/img/fisat/2022-07-0a3a2734aaa.webp"
+ },
+ {
+  "name": "Ms. Lakshmi S",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "lakshmicse@fisat.ac.in",
+  "phone": "04842725029",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a3921.webp"
+ },
+ {
+  "name": "Ms. Leena Thomas",
+  "dept": "ece",
+  "deptName": "Electronics and Communication Engineering",
+  "role": "Assistant Professor (Special Grade)",
+  "email": "leenathomas@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a4669-1.webp"
+ },
+ {
+  "name": "Ms. Lidiya P M",
+  "dept": "ce",
+  "deptName": "Civil Engineering",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "lidiyapm@fisat.ac.in",
+  "phone": "+91-484-2725-026",
+  "img": "{{root}}assets/img/fisat/2022-07-0a3a3987.webp"
+ },
+ {
+  "name": "Ms. Meenu Mathew",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "meenumathew@fisat.ac.in",
+  "phone": "04842725031",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a4485.webp"
+ },
+ {
+  "name": "Ms. Meera Treesa Mathews",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Assistant Professor (Special Grade)",
+  "email": "meeratreesa@fisat.ac.in",
+  "phone": "04842725237",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a3837.webp"
+ },
+ {
+  "name": "Ms. Merin Cherian",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Assistant Professor(Special Grade)",
+  "email": "merincherian@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a4626.webp"
+ },
+ {
+  "name": "Ms. Merin Thomas",
+  "dept": "mba",
+  "deptName": "Business Administration",
+  "role": "Assistant Professor (Special Grade)",
+  "email": "merinthomas@fisat.ac.in",
+  "phone": "04842725279",
+  "img": "{{root}}assets/img/fisat/2022-08-0a3a4590.webp"
+ },
+ {
+  "name": "Ms. Minu Kuriakose",
+  "dept": "ece",
+  "deptName": "Electronics and Communication Engineering",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "minu_kuriakose@fisat.ac.in",
+  "phone": "+91-484-2725-031",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a3845.webp"
+ },
+ {
+  "name": "Ms. Neena K A",
+  "dept": "ece",
+  "deptName": "Electronics and Communication Engineering",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "neenaka@fisat.ac.in",
+  "phone": "+91-484-2725-031",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a2901.webp"
+ },
+ {
+  "name": "Ms. Neeraja Nair (On leave)",
+  "dept": "ce",
+  "deptName": "Civil Engineering",
+  "role": "Assistant Professor(Special Grade)",
+  "email": "neerajanair@fisat.ac.in",
+  "phone": "+91-484-2725-025",
+  "img": "{{root}}assets/img/fisat/2022-07-0a3a4573.webp"
+ },
+ {
+  "name": "Ms. Neha Beegam P.E(On Contract)",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Assistant Professor",
+  "email": "nehabeegam@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2025-07-neha-photo.webp"
+ },
+ {
+  "name": "Ms. Nimmy M Philip",
+  "dept": "ece",
+  "deptName": "Electronics and Communication Engineering",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "nimmyphilip@fisat.ac.in",
+  "phone": "+91-484-2725-237",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a2840.webp"
+ },
+ {
+  "name": "Ms. Nincy Jose",
+  "dept": "ce",
+  "deptName": "Civil Engineering",
+  "role": "Assistant Professor(Special Grade)",
+  "email": "nincyjose@fisat.ac.in",
+  "phone": "+91-484-2725-026",
+  "img": "{{root}}assets/img/fisat/2022-07-0a3a4542.webp"
+ },
+ {
+  "name": "Ms. Nisha R",
+  "dept": "ece",
+  "deptName": "Electronics and Communication Engineering",
+  "role": "Assistant Professor(Special Grade)",
+  "email": "nishar@fisat.ac.in",
+  "phone": "+91-484-2725-237",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a4644.webp"
+ },
+ {
+  "name": "Ms. Nisreen M Ali(On Contract)",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Assistant Professor",
+  "email": "nisreenali@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2025-01-329496.webp"
+ },
+ {
+  "name": "Ms. Nithya Paul(On Contract)",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Assistant Professor",
+  "email": "nithyapaul@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2023-09-nithya-paul.webp"
+ },
+ {
+  "name": "Ms. Nyci Ignatius",
+  "dept": "sh",
+  "deptName": "Science and Humanities",
+  "role": "Assistant Professor (Special Grade)",
+  "email": "nyciignatius@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a3760.webp"
+ },
+ {
+  "name": "Ms. Panjami K",
+  "dept": "ce",
+  "deptName": "Civil Engineering",
+  "role": "Assistant Professor (Special Grade)",
+  "email": "panjamik@fisat.ac.in",
+  "phone": "+91-484-2725-025",
+  "img": "{{root}}assets/img/fisat/2022-07-0a3a4512.webp"
+ },
+ {
+  "name": "Ms. Parvathy G Menon",
+  "dept": "sh",
+  "deptName": "Science and Humanities",
+  "role": "Assistant Professor",
+  "email": "pgmenon@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2023-06-parvathy.webp"
+ },
+ {
+  "name": "Ms. Pearlsy P V",
+  "dept": "ece",
+  "deptName": "Electronics and Communication Engineering",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "pearlsypv@fisat.ac.in",
+  "phone": "+91-484-2725-031",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a3867.webp"
+ },
+ {
+  "name": "Ms. Preethi N P",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Assistant Professor(Senior Grade)",
+  "email": "preethi.np@fisat.ac.in",
+  "phone": "04842725029",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a3922.webp"
+ },
+ {
+  "name": "Ms. Rajalakshmi T R",
+  "dept": "ce",
+  "deptName": "Civil Engineering",
+  "role": "Assistant Professor (Special Grade)",
+  "email": "trrajalakshmi@fisat.ac.in",
+  "phone": "+91-484-2725-025",
+  "img": "{{root}}assets/img/fisat/2022-07-0a3a4470.webp"
+ },
+ {
+  "name": "Ms. Raji P",
+  "dept": "eie",
+  "deptName": "Electronics and Instrumentation Engineering",
+  "role": "Assistant Professor (Special Grade)",
+  "email": "rajiarun@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a4447.webp"
+ },
+ {
+  "name": "Ms. Remya R",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "remya.r@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a3834.webp"
+ },
+ {
+  "name": "Ms. Reshma Prasad",
+  "dept": "ce",
+  "deptName": "Civil Engineering",
+  "role": "Assistant Professor (Special Grade)",
+  "email": "reshmaprasad@fisat.ac.in",
+  "phone": "+91-484-2725-025",
+  "img": "{{root}}assets/img/fisat/2022-07-0a3a4467.webp"
+ },
+ {
+  "name": "Ms. Rinu J Achison",
+  "dept": "ce",
+  "deptName": "Civil Engineering",
+  "role": "Assistant Professor- Senior Grade",
+  "email": "rinuachison@fisat.ac.in",
+  "phone": "+91-484-2725-274",
+  "img": "{{root}}assets/img/fisat/2022-07-rinu.webp"
+ },
+ {
+  "name": "Ms. Roshna K I",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Assistant Professor(Senior Grade)",
+  "email": "kiroshna@fisat.ac.in",
+  "phone": "04842725237",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a4481.webp"
+ },
+ {
+  "name": "Ms. Sajana Shamsuddin",
+  "dept": "sh",
+  "deptName": "Science and Humanities",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "sajanas@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-06-sajana.webp"
+ },
+ {
+  "name": "Ms. Sanitha P S(On Contract)",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Assistant Professor",
+  "email": "sanithaps@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2025-07-1000109582.webp"
+ },
+ {
+  "name": "Ms. Senu Abi",
+  "dept": "mca",
+  "deptName": "Computer Applications",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "sinuabi@fisat.ac.in",
+  "phone": "7012211002",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a3806.webp"
+ },
+ {
+  "name": "Ms. Sharon Jacob",
+  "dept": "ce",
+  "deptName": "Civil Engineering",
+  "role": "Assistant Professor (Special Grade)",
+  "email": "sharonjacob@fisat.ac.in",
+  "phone": "+91-484-2725-025",
+  "img": "{{root}}assets/img/fisat/2022-07-0a3a4630.webp"
+ },
+ {
+  "name": "Ms. Sheelu Susan Mathews",
+  "dept": "ece",
+  "deptName": "Electronics and Communication Engineering",
+  "role": "Assistant Professor(Special Grade)",
+  "email": "sheelususan@fisat.ac.in",
+  "phone": "+91-484-2725-237",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a3857.webp"
+ },
+ {
+  "name": "Ms. Sheelu Susan Mathews",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "sheelususan@fisat.ac.in",
+  "phone": "+91-484-2725-237",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a3857.webp"
+ },
+ {
+  "name": "Ms. Sheffy Thomas",
+  "dept": "eie",
+  "deptName": "Electronics and Instrumentation Engineering",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "sheffythomas@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-06-sheffy-thomas.webp"
+ },
+ {
+  "name": "Ms. Shimy Joseph",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Assistant Professor (Senior Grade) & Deputy Controller of Examinations",
+  "email": "shimyjoseph@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a3770-1.webp"
+ },
+ {
+  "name": "Ms. Shruthi Chandran",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Assistant Professor",
+  "email": "",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2026-07-shruthi-chandran-1-1.webp"
+ },
+ {
+  "name": "Ms. Simi Stephen",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "simistephen@fisat.ac.in",
+  "phone": "04842725237",
+  "img": "{{root}}assets/img/fisat/2022-06-simi-stephen-1.webp"
+ },
+ {
+  "name": "Ms. Sona Mary Louis",
+  "dept": "mca",
+  "deptName": "Computer Applications",
+  "role": "Assistant Professor (Special Grade)",
+  "email": "sonamary@fisat.ac.in",
+  "phone": "8304896401",
+  "img": "{{root}}assets/img/fisat/2022-06-img-20250220-wa0014.webp"
+ },
+ {
+  "name": "Ms. Soney R Nadh(On Contract)",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Assistant Professor",
+  "email": "soneyrnadh@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2024-08-soney.webp"
+ },
+ {
+  "name": "Ms. Soosan Francis(On Contract)",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Assistant Professor",
+  "email": "soosanfrancis@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2025-07-soosan-francis.webp"
+ },
+ {
+  "name": "Ms. Sophiya Mathews(On Contract)",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Assistant Professor",
+  "email": "sophiyamathews@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2024-07-sophiya.webp"
+ },
+ {
+  "name": "Ms. Soumya S Raj",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "soumyasraj@fisat.ac.in",
+  "phone": "04842725029",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a4460.webp"
+ },
+ {
+  "name": "Ms. Soumya Simon",
+  "dept": "eee",
+  "deptName": "Electrical and Electronics Engineering",
+  "role": "Assistant Professor(Senior Grade)",
+  "email": "soumyasimon@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-07-ssn.webp"
+ },
+ {
+  "name": "Ms. Sowmya V Krishnankutty",
+  "dept": "ce",
+  "deptName": "Civil Engineering",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "sowmyav@fisat.ac.in",
+  "phone": "+91-484-2725-041",
+  "img": "{{root}}assets/img/fisat/2022-07-0a3a2733aaaa.webp"
+ },
+ {
+  "name": "Ms. Sreelekshmy S",
+  "dept": "ece",
+  "deptName": "Electronics and Communication Engineering",
+  "role": "Assistant Professor (Special Grade)",
+  "email": "sreelekshmys@fisat.ac.in",
+  "phone": "+91-484-2725-029",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a4674-1.webp"
+ },
+ {
+  "name": "Ms. Sruthy Suresh",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "sruthysuresh@fisat.ac.in",
+  "phone": "04842725237",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a2852.webp"
+ },
+ {
+  "name": "Ms. Subha Thomas",
+  "dept": "ece",
+  "deptName": "Electronics and Communication Engineering",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "subhathomas@fisat.ac.in",
+  "phone": "+91-484-2725-237",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a2896.webp"
+ },
+ {
+  "name": "Ms. Surumi Hassainar",
+  "dept": "eee",
+  "deptName": "Electrical and Electronics Engineering",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "surumih@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-07-sh.webp"
+ },
+ {
+  "name": "Ms. Vidya T P",
+  "dept": "sh",
+  "deptName": "Science and Humanities",
+  "role": "Assistant Professor(Senior Grade)",
+  "email": "vidyatp@fisat.ac.in",
+  "phone": "+91-484-2725-282",
+  "img": "{{root}}assets/img/fisat/2022-06-vidya.webp"
+ },
+ {
+  "name": "Ms. Vinitha V",
+  "dept": "ece",
+  "deptName": "Electronics and Communication Engineering",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "vinithav@fisat.ac.in",
+  "phone": "+91-484-2725-029",
+  "img": "{{root}}assets/img/fisat/2022-06-vinitha.webp"
+ },
+ {
+  "name": "Ms.Anisha Joseph",
+  "dept": "sh",
+  "deptName": "Science and Humanities",
+  "role": "Assistant Professor (Special Grade)",
+  "email": "anishajoseph@fisat.ac.in",
+  "phone": "+91-484-2725-282",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a3868.webp"
+ },
+ {
+  "name": "Ms.Deepa K",
+  "dept": "eee",
+  "deptName": "Electrical and Electronics Engineering",
+  "role": "Assistant Professor(Senior Grade)",
+  "email": "deepak@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-07-dk.webp"
+ },
+ {
+  "name": "Ms.Jyothi.G.K",
+  "dept": "eee",
+  "deptName": "Electrical and Electronics Engineering",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "jyothigk@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-07-jgk.webp"
+ },
+ {
+  "name": "Ms.Rakhee.R",
+  "dept": "eee",
+  "deptName": "Electrical and Electronics Engineering",
+  "role": "Assistant Professor(Senior Grade)",
+  "email": "rakheerajesh@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-06-rkr.webp"
+ },
+ {
+  "name": "Ms.Sreeja E A",
+  "dept": "eee",
+  "deptName": "Electrical and Electronics Engineering",
+  "role": "Assistant Professor(Senior Grade)",
+  "email": "sreejaea@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-07-sea.webp"
+ },
+ {
+  "name": "Ms.Suni Mathai",
+  "dept": "me",
+  "deptName": "Mechanical Engineering",
+  "role": "Assistant Professor (Senior Grade)",
+  "email": "sunimathai@fisat.ac.in",
+  "phone": "0484-2725272",
+  "img": "{{root}}assets/img/fisat/2022-10-0a3a4647.webp"
+ },
+ {
+  "name": "Ms.Veena Wilson",
+  "dept": "eee",
+  "deptName": "Electrical and Electronics Engineering",
+  "role": "Assistant Professor(Special Grade)",
+  "email": "veenawilson@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-07-whatsapp-image-2026-04-06-at-12.04.36.webp"
+ },
+ {
+  "name": "Mr. Abhilash K K",
+  "dept": "me",
+  "deptName": "Mechanical Engineering",
+  "role": "Trade Instructor",
+  "email": "abhilashkk@fisat.ac.in",
+  "phone": "0484-2725272",
+  "img": "{{root}}assets/img/fisat/2026-07-whatsapp-image-2026-07-07-at-1.36.28-pm.webp"
+ },
+ {
+  "name": "Mr. Abhishek P W",
+  "dept": "ce",
+  "deptName": "Civil Engineering",
+  "role": "Lab Instructor cum Civil Supervisor",
+  "email": "abhishekpw@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2026-07-whatsapp-image-2026-07-07-at-7.35.59-pm.webp"
+ },
+ {
+  "name": "Mr. Aravind Balan",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Lab Instructor Grade III",
+  "email": "aravindbalan@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-07-0a3a3953.webp"
+ },
+ {
+  "name": "Mr. Benny George",
+  "dept": "ece",
+  "deptName": "Electronics and Communication Engineering",
+  "role": "Trade Instructor Gr.II",
+  "email": "bennygeorge@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-07-0a3a3852-1.webp"
+ },
+ {
+  "name": "Mr. Eldho A I",
+  "dept": "eee",
+  "deptName": "Electrical and Electronics Engineering",
+  "role": "Lab Instructor cum Supervisor",
+  "email": "eldhoai@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-07-eldho-1.webp"
+ },
+ {
+  "name": "Mr. Gireeshkumar M R",
+  "dept": "me",
+  "deptName": "Mechanical Engineering",
+  "role": "Trade Instructor 1st Grade cum General Maintenance Assistant",
+  "email": "gireeshkumarmr@fisat.ac.in",
+  "phone": "0484-2725272",
+  "img": "{{root}}assets/img/fisat/2022-10-0a3a3937.webp"
+ },
+ {
+  "name": "Mr. Gopan G",
+  "dept": "me",
+  "deptName": "Mechanical Engineering",
+  "role": "Workshop Superintendent",
+  "email": "gopan.g@fisat.ac.in",
+  "phone": "0484-2725272",
+  "img": "{{root}}assets/img/fisat/2022-10-0a3a4427.webp"
+ },
+ {
+  "name": "Mr. Habin Varghese",
+  "dept": "eee",
+  "deptName": "Electrical and Electronics Engineering",
+  "role": "Lab Instructor",
+  "email": "habincv@fisat.ac.in",
+  "phone": "8891299192",
+  "img": "{{root}}assets/img/fisat/2026-07-whatsapp-image-2026-07-06-at-12.08.27.webp"
+ },
+ {
+  "name": "Mr. Jaison Joseph",
+  "dept": "ce",
+  "deptName": "Civil Engineering",
+  "role": "Civil Supervisor",
+  "email": "jaisonjoseph@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-07-0a3a3874.webp"
+ },
+ {
+  "name": "Mr. Mani K K",
+  "dept": "me",
+  "deptName": "Mechanical Engineering",
+  "role": "Workshop Co Ordinator cum Admission Associate",
+  "email": "manikk@fisat.ac.in",
+  "phone": "0484-2725272",
+  "img": "{{root}}assets/img/fisat/2022-10-0a3a4408.webp"
+ },
+ {
+  "name": "Mr. Minju Rajan",
+  "dept": "me",
+  "deptName": "Mechanical Engineering",
+  "role": "Trade Instructor",
+  "email": "minchurajan@fisat.ac.in",
+  "phone": "0484-2725272",
+  "img": "{{root}}assets/img/fisat/2026-09-minju.webp"
+ },
+ {
+  "name": "Mr. Pradeepkumar P",
+  "dept": "eee",
+  "deptName": "Electrical and Electronics Engineering",
+  "role": "Trade Instructor cum Electrician",
+  "email": "pradeepkumar@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-07-pradeep.webp"
+ },
+ {
+  "name": "Mr. Rojan Peter",
+  "dept": "ce",
+  "deptName": "Civil Engineering",
+  "role": "Lab Instructor cum Civil Supervisor",
+  "email": "rojanpeter@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2026-07-whatsapp-image-2026-07-06-at-10.36.44-am.webp"
+ },
+ {
+  "name": "Mr. Shibu Ramakrishnan",
+  "dept": "ece",
+  "deptName": "Electronics and Communication Engineering",
+  "role": "Trade Instructor Grade I",
+  "email": "shiburamakrishnan@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-07-0a3a3850-1.webp"
+ },
+ {
+  "name": "Mr. SunilKumar V S",
+  "dept": "me",
+  "deptName": "Mechanical Engineering",
+  "role": "Lab Instructor Grade 2",
+  "email": "sunilkumar@fisat.ac.in",
+  "phone": "0484-2725272",
+  "img": "{{root}}assets/img/fisat/2022-10-0a3a4415.webp"
+ },
+ {
+  "name": "Mr. Suresh E G",
+  "dept": "me",
+  "deptName": "Mechanical Engineering",
+  "role": "Trade Instructor cum General Maintenance Assistant",
+  "email": "suresheg@fisat.ac.in",
+  "phone": "0484-2725272",
+  "img": "{{root}}assets/img/fisat/2022-10-0a3a2867.webp"
+ },
+ {
+  "name": "Mr. Thomas Francis",
+  "dept": "me",
+  "deptName": "Mechanical Engineering",
+  "role": "Lab Instructor",
+  "email": "thomasfrancis@fisat.ac.in",
+  "phone": "0484-2725272",
+  "img": "{{root}}assets/img/fisat/2026-07-whatsapp-image-2026-07-02-at-3.08.27-pm.webp"
+ },
+ {
+  "name": "Mr. Varun P Nair",
+  "dept": "mca",
+  "deptName": "Computer Applications",
+  "role": "Lab Instructor Grade III",
+  "email": "",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2023-03-0a3a3947.webp"
+ },
+ {
+  "name": "Mr.Denny Vadakumcherry",
+  "dept": "eee",
+  "deptName": "Electrical and Electronics Engineering",
+  "role": "Electrical Supervisor",
+  "email": "dennyvo@fisat.ac.in",
+  "phone": "9745183040",
+  "img": "{{root}}assets/img/fisat/2025-07-denny-for-website.webp"
+ },
+ {
+  "name": "Mr.Gokul Varma M",
+  "dept": "eie",
+  "deptName": "Electronics and Instrumentation Engineering",
+  "role": "Lab Instructor Grade III",
+  "email": "gokulvarma@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a4455-1.webp"
+ },
+ {
+  "name": "Mr.Jisto Varghese",
+  "dept": "me",
+  "deptName": "Mechanical Engineering",
+  "role": "Trade Instructor cum General Maintenance Assistant",
+  "email": "jisto.mv@fisat.ac.in",
+  "phone": "0484-2725272",
+  "img": "{{root}}assets/img/fisat/2022-10-0a3a3789.webp"
+ },
+ {
+  "name": "Mr.Unnikrishnan P L",
+  "dept": "eie",
+  "deptName": "Electronics and Instrumentation Engineering",
+  "role": "Lab Instructor Grade III",
+  "email": "unnilenin@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a4474.webp"
+ },
+ {
+  "name": "Ms. Ambili N Menon",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Lab Instructor Grade II",
+  "email": "ambilinmenon@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-07-0a3a4017.webp"
+ },
+ {
+  "name": "Ms. Ambily Sekar C",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Lab Instructor Grade II",
+  "email": "ambilysekarc@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-07-0a3a4496.webp"
+ },
+ {
+  "name": "Ms. Aswathy Balagopal",
+  "dept": "sh",
+  "deptName": "Science and Humanities",
+  "role": "Lab Demonstrator in English",
+  "email": "aswathybalagopal@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a3899.webp"
+ },
+ {
+  "name": "Ms. Bini T Abraham",
+  "dept": "ece",
+  "deptName": "Electronics and Communication Engineering",
+  "role": "Lab Instructor Grade I",
+  "email": "biniabraham@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-07-bini-1.webp"
+ },
+ {
+  "name": "Ms. Hani V S",
+  "dept": "ce",
+  "deptName": "Civil Engineering",
+  "role": "Lab Instructor cum Civil Supervisor",
+  "email": "hanivs@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2025-09-11f63086-9af0-48a4-a76b-cfdde2dc4fac.webp"
+ },
+ {
+  "name": "Ms. Joicy K Jose",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Lab Instructor",
+  "email": "joicykjose@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2024-12-joicy.webp"
+ },
+ {
+  "name": "Ms. Laly V V",
+  "dept": "ece",
+  "deptName": "Electronics and Communication Engineering",
+  "role": "Lab Instructor Grade I",
+  "email": "lalyvv@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-07-lally.webp"
+ },
+ {
+  "name": "Ms. Neeba Cheriyachan",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Lab Instructor Grade II",
+  "email": "neebac@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-07-neeba-1.webp"
+ },
+ {
+  "name": "Ms. Neema V P",
+  "dept": "eee",
+  "deptName": "Electrical and Electronics Engineering",
+  "role": "Lab Instructor (on contract)",
+  "email": "neemavp@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2026-01-1000571404-e1768899568592.webp"
+ },
+ {
+  "name": "Ms. Nisha P M",
+  "dept": "sh",
+  "deptName": "Science and Humanities",
+  "role": "Lab Demonstrator in Chemistry",
+  "email": "nishapm@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a4450.webp"
+ },
+ {
+  "name": "Ms. Nitha Vijoy",
+  "dept": "sh",
+  "deptName": "Science and Humanities",
+  "role": "Fitness Trainer",
+  "email": "nithavijoy@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a4540.webp"
+ },
+ {
+  "name": "Ms. Nithya S Varma",
+  "dept": "sh",
+  "deptName": "Science and Humanities",
+  "role": "Lab Demonstrator in Physics-Pursuing part time PhD in Physics",
+  "email": "nithyasvarma@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-06-0a3a4449.webp"
+ },
+ {
+  "name": "Ms. Noma Mathew M",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Lab Instructor Grade I",
+  "email": "nomamathew@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-07-0a3a4019.webp"
+ },
+ {
+  "name": "Ms. Salini T R",
+  "dept": "mca",
+  "deptName": "Computer Applications",
+  "role": "Lab Instructor Grade III",
+  "email": "",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2023-03-salini-1.webp"
+ },
+ {
+  "name": "Ms. Sandhya O C",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Lab Instructor Grade II",
+  "email": "sandhyaoc@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-07-0a3a4493.webp"
+ },
+ {
+  "name": "Ms. Sheela K George (Daily Wages)",
+  "dept": "ece",
+  "deptName": "Electronics and Communication Engineering",
+  "role": "Lab Instructor Grade I",
+  "email": "sheelakg@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-07-0a3a4437-1.webp"
+ },
+ {
+  "name": "Ms. Shiji Jaison",
+  "dept": "ce",
+  "deptName": "Civil Engineering",
+  "role": "Trade Instructor",
+  "email": "shijijaison@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-07-0a3a3907.webp"
+ },
+ {
+  "name": "Ms. SINDHOORY K S",
+  "dept": "ece",
+  "deptName": "Electronics and Communication Engineering",
+  "role": "Lab Instructor",
+  "email": "sindhooryks@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2026-07-sindhoory-picsart-aiimageenhancer.webp"
+ },
+ {
+  "name": "Ms. Smija M B",
+  "dept": "mca",
+  "deptName": "Computer Applications",
+  "role": "Lab Instructor",
+  "email": "smijamb@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2024-12-smija.webp"
+ },
+ {
+  "name": "Ms. Sreelalithambika P K",
+  "dept": "cse",
+  "deptName": "Computer Science and Engineering",
+  "role": "Lab Instructor Grade II",
+  "email": "sreelalithambika@fisat.ac.in",
+  "phone": "",
+  "img": "{{root}}assets/img/fisat/2022-07-0a3a4022.webp"
+ }
+]

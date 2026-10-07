@@ -1,0 +1,896 @@
+{
+ "peopleBehind": [
+  {
+   "name": "Mr. Shimith P R",
+   "role": "Chairman",
+   "img": "{{root}}assets/img/fisat/2022-05-chairman.webp",
+   "details": {},
+   "email": "",
+   "phone": "",
+   "group": ""
+  },
+  {
+   "name": "Mr. Sachin Jacob Paul",
+   "role": "Vice-Chairman",
+   "img": "{{root}}assets/img/fisat/2022-05-sachin-jacob-paul.webp",
+   "details": {},
+   "email": "",
+   "phone": "",
+   "group": ""
+  },
+  {
+   "name": "Mr. Jenib J Kachapilly",
+   "role": "Treasurer",
+   "img": "{{root}}assets/img/fisat/2022-05-jenib-j-kachapilly-tresurer.webp",
+   "details": {},
+   "email": "",
+   "phone": "",
+   "group": ""
+  },
+  {
+   "name": "Mr. Tom Thomas",
+   "role": "Vice President",
+   "img": "{{root}}assets/img/fisat/2022-07-tom-thomas-1.webp",
+   "details": {},
+   "email": "",
+   "phone": "",
+   "group": ""
+  },
+  {
+   "name": "Mr. Sathyamoorthy S",
+   "role": "Associate Secretary",
+   "img": "{{root}}assets/img/fisat/2022-07-sathyamoorthy-s.webp",
+   "details": {},
+   "email": "",
+   "phone": "",
+   "group": ""
+  },
+  {
+   "name": "Mr. Sasi P R",
+   "role": "Associate Treasurer",
+   "img": "{{root}}assets/img/fisat/2026-06-sasi.webp",
+   "details": {},
+   "email": "",
+   "phone": "",
+   "group": ""
+  },
+  {
+   "name": "Mr. Ajithkumar K K",
+   "role": "Member",
+   "img": "{{root}}assets/img/fisat/2022-07-ajith-kumar-kk.webp",
+   "details": {},
+   "email": "",
+   "phone": "",
+   "group": ""
+  },
+  {
+   "name": "Mr. Abdul Nazar M P",
+   "role": "Member",
+   "img": "{{root}}assets/img/fisat/2022-07-mr.-abdul-nazar-m-p.webp",
+   "details": {},
+   "email": "",
+   "phone": "",
+   "group": ""
+  },
+  {
+   "name": "Mr. George C Chacko",
+   "role": "Member",
+   "img": "{{root}}assets/img/fisat/2022-07-george-c-chacko.webp",
+   "details": {},
+   "email": "",
+   "phone": "",
+   "group": ""
+  },
+  {
+   "name": "Mr. Anoop Krishnan C R",
+   "role": "Member",
+   "img": "{{root}}assets/img/fisat/2022-07-anoop-krishnan.webp",
+   "details": {},
+   "email": "",
+   "phone": "",
+   "group": ""
+  },
+  {
+   "name": "Mr. Jojo K J",
+   "role": "Member",
+   "img": "{{root}}assets/img/fisat/2022-07-jojo.webp",
+   "details": {},
+   "email": "",
+   "phone": "",
+   "group": ""
+  },
+  {
+   "name": "Ms. Jayasree K",
+   "role": "Member",
+   "img": "{{root}}assets/img/fisat/2022-07-jayasree-k.webp",
+   "details": {},
+   "email": "",
+   "phone": "",
+   "group": ""
+  }
+ ],
+ "administration": [
+  {
+   "name": "Mr. Vinod P Nair",
+   "role": "Head (Operations)",
+   "img": "{{root}}assets/img/fisat/2022-07-0a3a3896.webp",
+   "details": {},
+   "email": "ao@fisat.ac.in",
+   "phone": "0484 2725",
+   "group": "Operations"
+  },
+  {
+   "name": "Ms. Radhika S",
+   "role": "Senior Administrative Associate",
+   "img": "{{root}}assets/img/fisat/2022-07-0a3a4498.webp",
+   "details": {},
+   "email": "radhikas@fisat.ac.in",
+   "phone": "04842725212",
+   "group": "Operations"
+  },
+  {
+   "name": "Ms. Nicy Johnson",
+   "role": "Store In-charge cum Junior office Assistant",
+   "img": "{{root}}assets/img/fisat/2023-02-0a3a3873.webp",
+   "details": {},
+   "email": "nicyjohnson@fisat.ac.in",
+   "phone": "",
+   "group": "Operations"
+  },
+  {
+   "name": "Mr. Subash Manoharan",
+   "role": "Service Associate",
+   "img": "{{root}}assets/img/fisat/2022-07-0a3a3901.webp",
+   "details": {},
+   "email": "subashmanoharan@fisat.ac.in",
+   "phone": "04842725",
+   "group": "Operations"
+  },
+  {
+   "name": "Mr. Eldhose T M",
+   "role": "Service Associate",
+   "img": "{{root}}assets/img/fisat/2022-07-0a3a4508.webp",
+   "details": {},
+   "email": "eldhosetm@fisat.ac.in",
+   "phone": "04842725",
+   "group": "Operations"
+  },
+  {
+   "name": "Mr. Praveen V M",
+   "role": "Service Associate",
+   "img": "{{root}}assets/img/fisat/2023-02-praveen.webp",
+   "details": {},
+   "email": "praveenvm@fisat.ac.in",
+   "phone": "",
+   "group": "Operations"
+  },
+  {
+   "name": "Mr. Nissar K U",
+   "role": "Service Associate",
+   "img": "{{root}}assets/img/fisat/2023-02-0a3a3909.webp",
+   "details": {},
+   "email": "nissarku@fisat.ac.in",
+   "phone": "0484272",
+   "group": "Operations"
+  },
+  {
+   "name": "Mr. Nithin C S",
+   "role": "Driver cum Attendant",
+   "img": "{{root}}assets/img/fisat/2024-09-nithin.webp",
+   "details": {},
+   "email": "nithincs@fisat.ac.in",
+   "phone": "",
+   "group": "Operations"
+  },
+  {
+   "name": "Ms. Rajani P J",
+   "role": "Service Assistant",
+   "img": "{{root}}assets/img/fisat/2023-02-0a3a3889.webp",
+   "details": {},
+   "email": "rajanipj@fisat.ac.in",
+   "phone": "",
+   "group": "Operations"
+  },
+  {
+   "name": "Mr. Dhanish K I",
+   "role": "Estate Supervisor",
+   "img": "{{root}}assets/img/fisat/2022-07-0a3a3893.webp",
+   "details": {},
+   "email": "dhanishki@fisat.ac.in",
+   "phone": "0484 2725",
+   "group": "Operations"
+  },
+  {
+   "name": "Mr. Denny Vadakumchery",
+   "role": "Electrical Sup./StoreKeeper",
+   "img": "{{root}}assets/img/fisat/2022-07-0a3a3936.webp",
+   "details": {},
+   "email": "dennyvo@fisat.ac.in",
+   "phone": "04842725",
+   "group": "Operations"
+  },
+  {
+   "name": "Mr. Sibu A K",
+   "role": "Electrical Sup./StoreKeeper",
+   "img": "{{root}}assets/img/fisat/2022-07-0a3a2827.webp",
+   "details": {},
+   "email": "sibuak@fisat.ac.in",
+   "phone": "04842725",
+   "group": "Operations"
+  },
+  {
+   "name": "Mr. Mahesh K J",
+   "role": "Electrician cum Plumber",
+   "img": "{{root}}assets/img/fisat/2022-07-0a3a3943.webp",
+   "details": {},
+   "email": "maheshkj@fisat.ac.in",
+   "phone": "",
+   "group": "Operations"
+  },
+  {
+   "name": "Mr. Sarath Chandran",
+   "role": "Electrician cum Plumber",
+   "img": "{{root}}assets/img/fisat/2022-07-0a3a3946.webp",
+   "details": {},
+   "email": "sarathchandran@fisat.ac.in",
+   "phone": "",
+   "group": "Operations"
+  },
+  {
+   "name": "Mr. Linoj K S",
+   "role": "Electrician cum Plumber",
+   "img": "{{root}}assets/img/fisat/2022-07-1b5a7224.webp",
+   "details": {},
+   "email": "linojks@fisat.ac.in",
+   "phone": "",
+   "group": "Operations"
+  },
+  {
+   "name": "Mr. Manu Bose",
+   "role": "Electrician cum General Maintenance Attender",
+   "img": "{{root}}assets/img/fisat/2022-07-0a3a4568.webp",
+   "details": {},
+   "email": "manubose@fisat.ac.in",
+   "phone": "",
+   "group": "Operations"
+  },
+  {
+   "name": "Mr. Shibumon M Thomas",
+   "role": "Plumbing cum Maintenance Assistant (STP)",
+   "img": "{{root}}assets/img/fisat/2022-07-0a3a4622.webp",
+   "details": {},
+   "email": "",
+   "phone": "",
+   "group": "Operations"
+  },
+  {
+   "name": "Mr. Benny K M",
+   "role": "Plumbing cum General Maintenance Worker",
+   "img": "{{root}}assets/img/fisat/2022-07-0a3a4572.webp",
+   "details": {},
+   "email": "",
+   "phone": "",
+   "group": "Operations"
+  },
+  {
+   "name": "Mr. Benny Devassy",
+   "role": "Plumbing cum General Maintenance Worker",
+   "img": "{{root}}assets/img/fisat/2022-07-0a3a4577.webp",
+   "details": {},
+   "email": "",
+   "phone": "",
+   "group": "Operations"
+  },
+  {
+   "name": "Mr. Vipin Krishnan",
+   "role": "Plumbing cum General Maintenance Worker",
+   "img": "{{root}}assets/img/fisat/2022-07-0a3a4537.webp",
+   "details": {},
+   "email": "",
+   "phone": "",
+   "group": "Operations"
+  },
+  {
+   "name": "Ms. Jisha Jacob",
+   "role": "Head (Administration & HR)",
+   "img": "{{root}}assets/img/fisat/2022-06-0a3a4500.webp",
+   "details": {},
+   "email": "jishajacob@fisat.ac.in",
+   "phone": "0484 2725207",
+   "group": "Administration & HR"
+  },
+  {
+   "name": "Mr. Bejoy Joseph",
+   "role": "Manager",
+   "img": "{{root}}assets/img/fisat/2022-07-0a3a3785.webp",
+   "details": {},
+   "email": "bejoyjoseph@fisat.ac.in",
+   "phone": "04842725210",
+   "group": "Administration & HR"
+  },
+  {
+   "name": "Ms. Ranju A G",
+   "role": "Assistant Manager",
+   "img": "{{root}}assets/img/fisat/2022-07-0a3a4026-1.webp",
+   "details": {},
+   "email": "ranjuag@fisat.ac.in",
+   "phone": "",
+   "group": "Administration & HR"
+  },
+  {
+   "name": "Ms. Ambily Mohan",
+   "role": "Senior Administrative Associate",
+   "img": "{{root}}assets/img/fisat/2022-07-0a3a3929.webp",
+   "details": {},
+   "email": "ambilymo@fisat.ac.in",
+   "phone": "04842725213",
+   "group": "Administration & HR"
+  },
+  {
+   "name": "Ms. Manjusha P",
+   "role": "Assistant Manager",
+   "img": "{{root}}assets/img/fisat/2022-07-0a3a4000.webp",
+   "details": {},
+   "email": "manjusha@fisat.ac.in",
+   "phone": "04842725",
+   "group": "Administration & HR"
+  },
+  {
+   "name": "Mr. Manesh Mohan R",
+   "role": "Assistant Manager",
+   "img": "{{root}}assets/img/fisat/2022-07-0a3a4421-1.webp",
+   "details": {},
+   "email": "maneshmohan@fisat.ac.in",
+   "phone": "04842725111",
+   "group": "Administration & HR"
+  },
+  {
+   "name": "Ms. Divyamol M G",
+   "role": "Senior Administrative Associate",
+   "img": "{{root}}assets/img/fisat/2022-07-divya-2.webp",
+   "details": {},
+   "email": "divyamg@fisat.ac.in",
+   "phone": "04842725056",
+   "group": "Administration & HR"
+  },
+  {
+   "name": "Mr. Joby Mathew",
+   "role": "Administrative Associate",
+   "img": "{{root}}assets/img/fisat/2022-07-joby-2.webp",
+   "details": {},
+   "email": "jobymathew@fisat.ac.in",
+   "phone": "04842725",
+   "group": "Administration & HR"
+  },
+  {
+   "name": "Mr. Yacob K O (Shalvi)",
+   "role": "Administrative Associate",
+   "img": "{{root}}assets/img/fisat/2022-07-0a3a4014.webp",
+   "details": {},
+   "email": "dkfn@edkm.jj",
+   "phone": "04842725272",
+   "group": "Administration & HR"
+  },
+  {
+   "name": "Mr. Roji C K",
+   "role": "Administrative Associate",
+   "img": "{{root}}assets/img/fisat/2022-07-0a3a4442.webp",
+   "details": {},
+   "email": "rojick@fisat.ac.in",
+   "phone": "0484 2725",
+   "group": "Administration & HR"
+  },
+  {
+   "name": "Mr. Abilash K D",
+   "role": "Administrative Associate",
+   "img": "{{root}}assets/img/fisat/2023-02-0a3a4410.webp",
+   "details": {},
+   "email": "abilashkd@fisat.ac.in",
+   "phone": "0484272",
+   "group": "Administration & HR"
+  },
+  {
+   "name": "Mr. Jomge Jose",
+   "role": "Administrative Associate",
+   "img": "{{root}}assets/img/fisat/2022-07-0a3a4432.webp",
+   "details": {},
+   "email": "jomgejose@fisat.ac.in",
+   "phone": "04842725",
+   "group": "Administration & HR"
+  },
+  {
+   "name": "Mr. Noby Thomas",
+   "role": "Service Associate",
+   "img": "{{root}}assets/img/fisat/2022-07-noby.webp",
+   "details": {},
+   "email": "nobykthomas@fisat.ac.in",
+   "phone": "04842725",
+   "group": "Administration & HR"
+  },
+  {
+   "name": "Mr. Basil K Varghese",
+   "role": "Service Associate",
+   "img": "{{root}}assets/img/fisat/2022-07-0a3a3911.webp",
+   "details": {},
+   "email": "basilkv@fisat.ac.in",
+   "phone": "0484 2725",
+   "group": "Administration & HR"
+  },
+  {
+   "name": "Mr. George Joseph",
+   "role": "Senior Manager",
+   "img": "{{root}}assets/img/fisat/2022-07-0a3a4525.webp",
+   "details": {},
+   "email": "georgejoseph@fisat.ac.in",
+   "phone": "04842725208",
+   "group": "Finance"
+  },
+  {
+   "name": "Ms. Sreelakshmi K R",
+   "role": "Senior Administrative Associate",
+   "img": "{{root}}assets/img/fisat/2022-07-sreelakshmi.webp",
+   "details": {},
+   "email": "sreelakshmikr@fisat.ac.in",
+   "phone": "04842725213",
+   "group": "Finance"
+  },
+  {
+   "name": "Mr. Silvester V E",
+   "role": "Assistant Manager",
+   "img": "{{root}}assets/img/fisat/2022-07-0a3a4507.webp",
+   "details": {},
+   "email": "silvesterve@fisat.ac.in",
+   "phone": "0484 2725",
+   "group": "Finance"
+  },
+  {
+   "name": "Mr. Bijo Joseph",
+   "role": "Senior Administrative Associate",
+   "img": "{{root}}assets/img/fisat/2022-07-0a3a4011.webp",
+   "details": {},
+   "email": "bijojoseph@fisat.ac.in",
+   "phone": "04842725218",
+   "group": "Finance"
+  },
+  {
+   "name": "Mr. Srijit R Pisharoty",
+   "role": "Administrative Associate",
+   "img": "{{root}}assets/img/fisat/2022-07-0a3a3931.webp",
+   "details": {},
+   "email": "srpisharoty@fisat.ac.in",
+   "phone": "0484 2725214",
+   "group": "Finance"
+  },
+  {
+   "name": "Mr. Shinto Sebastian",
+   "role": "Public Relations Manager and Chief Liaison Officer",
+   "img": "{{root}}assets/img/fisat/2022-07-0a3a4030.webp",
+   "details": {},
+   "email": "publicrelations@fisat.ac.in",
+   "phone": "04842725",
+   "group": "Public Relations"
+  },
+  {
+   "name": "Ms. Anila Antony",
+   "role": "Front Office Executive",
+   "img": "{{root}}assets/img/fisat/2024-08-anila.webp",
+   "details": {},
+   "email": "anilaantony@fisat.ac.in",
+   "phone": "0484 272 5272",
+   "group": "Public Relations"
+  },
+  {
+   "name": "Mr. Sino Varghese",
+   "role": "Chief Librarian",
+   "img": "{{root}}assets/img/fisat/2022-07-sino.webp",
+   "details": {},
+   "email": "librarian@fisat.ac.in",
+   "phone": "04842725216",
+   "group": "Library"
+  },
+  {
+   "name": "Ms. Suma T C",
+   "role": "Librarian Gr.III",
+   "img": "{{root}}assets/img/fisat/2022-07-suma.webp",
+   "details": {},
+   "email": "sumatc@fisat.ac.in",
+   "phone": "04842725217",
+   "group": "Library"
+  },
+  {
+   "name": "Ms. Soumya V S",
+   "role": "Librarian Grade III",
+   "img": "{{root}}assets/img/fisat/2022-07-soumya.webp",
+   "details": {},
+   "email": "soumyasooraj@fisat.ac.in",
+   "phone": "04842725035",
+   "group": "Library"
+  },
+  {
+   "name": "Ms. Maneesha K B",
+   "role": "Librarian Gr.III",
+   "img": "{{root}}assets/img/fisat/2022-07-0a3a3816-1.webp",
+   "details": {},
+   "email": "maneeshakb@fisat.ac.in",
+   "phone": "04842725219",
+   "group": "Library"
+  },
+  {
+   "name": "Mr. ANIL P S",
+   "role": "Librarian Grade III",
+   "img": "{{root}}assets/img/fisat/2026-07-anil.webp",
+   "details": {},
+   "email": "",
+   "phone": "04842725217",
+   "group": "Library"
+  },
+  {
+   "name": "Mr. Ahammed Shahin C P",
+   "role": "Library Trainee",
+   "img": "{{root}}assets/img/fisat/2026-06-ahammed.webp",
+   "details": {},
+   "email": "ahammedshahincp@fisat.ac.in",
+   "phone": "04842725217",
+   "group": "Library"
+  },
+  {
+   "name": "Mr. Athul P P",
+   "role": "Library Trainee",
+   "img": "{{root}}assets/img/fisat/2026-06-athul-scaled.webp",
+   "details": {},
+   "email": "athulpp@fisat.ac.in",
+   "phone": "04842725217",
+   "group": "Library"
+  },
+  {
+   "name": "Ms. Nikhitha Vijay",
+   "role": "Library Trainee",
+   "img": "{{root}}assets/img/fisat/2026-06-nikhitha.webp",
+   "details": {},
+   "email": "nikhithavijay@fisat.ac.in",
+   "phone": "04842725217",
+   "group": "Library"
+  },
+  {
+   "name": "Mr. Rajesh T R",
+   "role": "Head (Systems)",
+   "img": "{{root}}assets/img/fisat/2022-07-0a3a2870.webp",
+   "details": {},
+   "email": "rajesh@fisat.ac.in",
+   "phone": "04842725227",
+   "group": "Systems & IT Operations"
+  },
+  {
+   "name": "Mr. Jitesh V",
+   "role": "Senior Manager",
+   "img": "{{root}}assets/img/fisat/2022-07-jitesh_photo_web.webp",
+   "details": {},
+   "email": "jiteshv@fisat.ac.in",
+   "phone": "04842725285",
+   "group": "Systems & IT Operations"
+  },
+  {
+   "name": "Mr. Shyjith P",
+   "role": "Technician for Hardware Lab Grade I",
+   "img": "{{root}}assets/img/fisat/2022-07-0a3a3784.webp",
+   "details": {},
+   "email": "shyjith@fisat.ac.in",
+   "phone": "04842725060",
+   "group": "Systems & IT Operations"
+  },
+  {
+   "name": "Mr. Deepak V Pillai",
+   "role": "Technical Assistant (Hardware & Network Maintenance)",
+   "img": "{{root}}assets/img/fisat/2023-06-deepak-new.webp",
+   "details": {},
+   "email": "deepakv@fisat.ac.in",
+   "phone": "0484 2725358",
+   "group": "Systems & IT Operations"
+  },
+  {
+   "name": "Mr. Vishnu Prasad G Nair",
+   "role": "Web & Graphics Designer",
+   "img": "{{root}}assets/img/fisat/2022-07-vp.webp",
+   "details": {},
+   "email": "vishnuprasad@fisat.ac.in",
+   "phone": "0484 2725058",
+   "group": "Systems & IT Operations"
+  },
+  {
+   "name": "Mr. Sanjay Bose",
+   "role": "Administrative Associate",
+   "img": "{{root}}assets/img/fisat/2026-07-sanjay-photo.webp",
+   "details": {},
+   "email": "sanjay@fisat.ac.in",
+   "phone": "",
+   "group": "Systems & IT Operations"
+  },
+  {
+   "name": "Mr. Jiss T Johny",
+   "role": "Administrative Associate (IT Support)",
+   "img": "{{root}}assets/img/fisat/2026-08-jiss.webp",
+   "details": {},
+   "email": "jissjohny@fisat.ac.in",
+   "phone": "",
+   "group": "Systems & IT Operations"
+  },
+  {
+   "name": "Mr. Mahesh C",
+   "role": "Assistant Professor (Senior Grade) cum Chief Technical Officer",
+   "img": "{{root}}assets/img/fisat/2026-06-mahesh.webp",
+   "details": {},
+   "email": "mahesh@fisat.ac.in",
+   "phone": "",
+   "group": "Software Cell"
+  },
+  {
+   "name": "Mr. Rajesh T R",
+   "role": "Head (Systems)",
+   "img": "{{root}}assets/img/fisat/2026-06-rajesh.webp",
+   "details": {},
+   "email": "rajesh@fisat.ac.in",
+   "phone": "",
+   "group": "Software Cell"
+  },
+  {
+   "name": "Mr. Mathews E K",
+   "role": "Senior Software Developer",
+   "img": "{{root}}assets/img/fisat/2022-07-0a3a2849.webp",
+   "details": {},
+   "email": "mathews@fisat.ac.in",
+   "phone": "04842725226",
+   "group": "Software Cell"
+  },
+  {
+   "name": "Ms. Vineetha S B",
+   "role": "Software Developer",
+   "img": "{{root}}assets/img/fisat/2022-07-0a3a4491.webp",
+   "details": {},
+   "email": "vineethasb@fisat.ac.in",
+   "phone": "04842725",
+   "group": "Software Cell"
+  },
+  {
+   "name": "Ms. Ashna M Sabu",
+   "role": "Software Developer",
+   "img": "{{root}}assets/img/fisat/2025-11-ashna.webp",
+   "details": {},
+   "email": "ashnams@fisat.ac.in",
+   "phone": "",
+   "group": "Software Cell"
+  },
+  {
+   "name": "Mr. Praveen M K",
+   "role": "Junior Software Developer",
+   "img": "{{root}}assets/img/fisat/2026-06-praveen-m-k.webp",
+   "details": {},
+   "email": "praveenmk@fisat.ac.in",
+   "phone": "",
+   "group": "Software Cell"
+  },
+  {
+   "name": "Ms. Sreelakshmi P H",
+   "role": "Software Intern",
+   "img": "{{root}}assets/img/fisat/2026-06-sreelakshmi-p-h.webp",
+   "details": {},
+   "email": "sreelakshmiph@fisat.ac.in",
+   "phone": "",
+   "group": "Software Cell"
+  },
+  {
+   "name": "Ms. Sindhu Subhash",
+   "role": "Care Taker - Ladies Hostel",
+   "img": "{{root}}assets/img/fisat/2024-01-sindhu.webp",
+   "details": {},
+   "email": "sindhusubash@fisat.ac.in",
+   "phone": "",
+   "group": "Hostel"
+  },
+  {
+   "name": "Ms. Saly Mathew",
+   "role": "Assistant Warden - Ladies Hostel",
+   "img": "{{root}}assets/img/fisat/2024-01-0a3a3847.webp",
+   "details": {},
+   "email": "salymathew@fisat.ac.in",
+   "phone": "",
+   "group": "Hostel"
+  },
+  {
+   "name": "Ms. Jayasree Sabu",
+   "role": "Warden - Ladies Hostel",
+   "img": "{{root}}assets/img/fisat/2024-01-0a3a2848.webp",
+   "details": {},
+   "email": "",
+   "phone": "",
+   "group": "Hostel"
+  },
+  {
+   "name": "Ms. Sulochana Kunjan",
+   "role": "Warden - Ladies Hostel",
+   "img": "{{root}}assets/img/fisat/2024-01-0a3a2848-1.webp",
+   "details": {},
+   "email": "",
+   "phone": "",
+   "group": "Hostel"
+  },
+  {
+   "name": "Ms. Reena Itteera",
+   "role": "Junior Assistant - Hostel",
+   "img": "{{root}}assets/img/fisat/2024-01-0a3a4452.webp",
+   "details": {},
+   "email": "reenaitteera@fisat.ac.in",
+   "phone": "",
+   "group": "Hostel"
+  },
+  {
+   "name": "Ms. Shiny K V",
+   "role": "Junior Assistant - Hostel",
+   "img": "{{root}}assets/img/fisat/2024-01-0a3a3848.webp",
+   "details": {},
+   "email": "shinykv@fisat.ac.in",
+   "phone": "",
+   "group": "Hostel"
+  },
+  {
+   "name": "Mr. Prem Kumar R",
+   "role": "Assistant Warden - Gents Hostel",
+   "img": "{{root}}assets/img/fisat/2024-01-premkumar.webp",
+   "details": {},
+   "email": "",
+   "phone": "",
+   "group": "Hostel"
+  },
+  {
+   "name": "Mr. Shaji George",
+   "role": "Assistant Warden - Gents Hostel",
+   "img": "{{root}}assets/img/fisat/2024-01-0a3a2848-3.webp",
+   "details": {},
+   "email": "shajigeorge@fisat.ac.in",
+   "phone": "",
+   "group": "Hostel"
+  },
+  {
+   "name": "Mr. Harikumar C K",
+   "role": "Warden",
+   "img": "{{root}}assets/img/fisat/2025-11-hari.webp",
+   "details": {},
+   "email": "",
+   "phone": "",
+   "group": "Hostel"
+  },
+  {
+   "name": "Mr. Sachin M Abraham",
+   "role": "Assistant Warden",
+   "img": "{{root}}assets/img/fisat/2025-11-scachin.webp",
+   "details": {},
+   "email": "",
+   "phone": "",
+   "group": "Hostel"
+  },
+  {
+   "name": "Ms. Remitha Rajan P T",
+   "role": "Counsellor",
+   "img": "{{root}}assets/img/fisat/2024-01-remitha.webp",
+   "details": {},
+   "email": "remitharajan@fisat.ac.in",
+   "phone": "",
+   "group": "Counselling & Wellness"
+  }
+ ],
+ "academicHeads": [
+  {
+   "img": "{{root}}assets/img/fisat/2026-02-photo-scaled.webp",
+   "name": "Dr. Jacob Thomas V",
+   "role": "Principal",
+   "bio": "<p> Prof. (DR) Jacob Thomas V. is presently working as Principal. He joined FISAT on 01-01-2024 He had his graduation in Electronics Engineering from National Institute of Technology, Surat and masters in Biomedical Engineering from IIT Madras. His doctoral degree is from IIT Madras on thesis Analysis of Foot Pressure and Stress parameters for various foot sole properties in Diabetic Neuropathy. He also obtained international level 5 certificate in Management and Leadership (QCF). He had about 36 years of experience asan engineer, lecturer, assistant professor, professor and principal in different engineering colleges of a Kerala Govt undertaking organization. He was also member of different statutory academic bodies of different universities and coordinated several national conferences, workshops, faculty development programs Prof. (DR) Jacob Thomas V has published 4 papers in international peer journals and also18 papers in national journals and about 30 national conference papers. He is the member of different professional bodies like Indian Society of Biomechanics, Diabetic Foot Society of India, Advancement of Medical Instrumentation, Indian Society for Technical Education, Indian Society of Applied mechanics etc. His areas of interest include biomechanics, bioinstrumentation, finite element analysis, diabetic foot ulcers etc.</p>"
+  },
+  {
+   "img": "{{root}}assets/img/fisat/2022-04-dr.-mini-p-r.webp",
+   "name": "Dr. Mini P R, B.E, M.Tech, Ph. D",
+   "role": "Vice Principal",
+   "bio": "<p> Dr. Mini P R is presently the Vice Principal. Dr. Mini P R joined FISAT as a lecturer in 2002 and has served as Head of the Department of Electronics and Communication Engineering during the period 2002-2006 and 2008-2021. She was instrumental in establishing the Department of Electronics and Communication Engineering in FISAT and setting up the various labs for UG and PG programs. Under her headship the department won several accolades including many B Tech and M Tech ranks both under M G University and APJ Abdul Kalam Technological University. The department also has a very commendable placement record.During the years 2021 to 2023, Dr. Mini P R held the positions of Dean (Academic Affairs) and IQAC Coordinator. She also served as the college's coordinator for NBA and NAAC accreditations, successfully guiding it to an A+ in the second round of NAAC accreditation in 2023. Dr. Mini P R received her BE degree in Electronics and Communication Engineering from the Government College of Technology, Coimbatore and M Tech in Digital Systems and Communication Engineering from the National Institute of Technology, Calicut. She received PhD from Cochin University of Science and Technology. She has more than 25 years of teaching experience and has been associated with FISAT since its inception. Her earlier teaching stints were at Amrita Viswa Vidyapeetam, Coimbatore and Government College of Technology, Coimbatore. She is a lifetime member of ISTE.</p>"
+  },
+  {
+   "img": "{{root}}assets/img/fisat/2023-05-dr.webp",
+   "name": "Dr. Unni Kartha G",
+   "role": "Dean (Planning & Development / R&D / International Relations)",
+   "bio": "<p> Dr. Unni Kartha G is Dean (Planning &amp; Development / R&amp;D / International Relations) and Professor of Civil Engineering at FISAT. He holds a Ph.D. in Earthquake Geotechnical Engineering from CUSAT, an M.E. in Structural Engineering with First Rank from GCT Coimbatore (2002), and a B.Tech in Civil Engineering with Honours from NSSCE Palakkad (1999). He began his career as Lecturer at Amrita Institute of Technology (2002–2004) and joined FISAT in 2004, later serving as the founding Head of the Civil Engineering Department (2011–2021). He played a central role in establishing Civil Engineering programs, labs, and placement activities, serving as Placement Officer from 2006–2023. His research interests include Seismic and Wind Analysis, Soil–Structure Interaction, FEM, Parallel Computing, Machine Learning, and Teaching–Learning Processes. He is a life member of IGC, ISET, ISTE, and an affiliated member of ASCE. Dr. Kartha has received the Best Teacher Award (2011), published 25 papers, guided projects and FDPs, and actively contributed to accreditations, ISO, consultancy for industries, and infrastructure development at FISAT. He is also a recognized Ph.D. guide at APJ Abdul Kalam Technological University.</p>"
+  },
+  {
+   "img": "{{root}}assets/img/fisat/2024-10-dr.-elizabeth-george.webp",
+   "name": "Dr. Elizabeth George",
+   "role": "Director-FBS",
+   "bio": "<p> Dr. Elizabeth George is the Director of FISAT Business School. She is a post graduate in Business Administration with specialization in Human Resource Management and Marketing from University of Madras. She did her M.Phil in Management from Bharathiar University and is UGC-NET qualified. She holds a PhD in the area of Organizational Behaviour and Human Resource Management from Cochin University of Science and Technology (CUSAT). She has 28 years of experience in teaching at post graduate level and she is an authorised PhD guide of Mahatma Gandhi university. Prior to joining FISAT, she was the Principal and Professor in DC School of Management and Technology, Vagamon. She has served as the Head of Department in Department of Business Administration (MBA), MES College, Marampally, Aluva and the Department of Management Studies, Adi Shankara Institute of Engineering &amp; Technology, Kalady. Dr. Elizabeth George has attended and presented papers in various national and international seminars and chaired several national and international conferences. She has been a resource person for various MDPs and FDPs. She has published more than 35 articles in nationally and internationally renowned journals such as Thomson Reuters and Scopus Indexed journals. She has authored three books including Psychological Empowerment and Job Satisfaction in Banking Sector (published by Palgrave Macmillan Publication, UK), Effectiveness of Employee Training Programme and Counselling skills for Managers. She is the Review committee member of several national/ international journals, Editorial Board Member of Kelaniya Journal of HRM, Sri Lanka and is life-member of NIPM and ISTD. Her area of interest in teaching and research includes Organizational Behaviour, Human Resource Management, Work Life Balance, Employee Empowerment, Human Resource Development and Employee Counselling.</p>"
+  },
+  {
+   "img": "{{root}}assets/img/fisat/2022-06-ar.webp",
+   "name": "Dr. Archana R",
+   "role": "Dean (Academic Affairs) / Member Secretary",
+   "bio": "<p> Dr. Archana R received B.Tech degree in Electrical &amp; Electronics Engineering from RIT (Government Engineering College), Kottayam in the year 1997 and M.Tech degree in Instrumentation and Control from National Institute of Technology Calicut (NITC) in 2008. She received Ph.D from Cochin University of Science and Technology (CUSAT) in the year 2016 under the Guidance of Dr. R Gopikakumari and Dr. A Unnikrishnan. Her research is in the topic “Modelling and Analysis of Chaotic Systems in Nature”. She has been teaching under-graduate and graduate courses since the year 1997. Dr.Archana R is recognized as a Ph.D Research Supervisor by Kerala Technological University (KTU), Kerala and is guiding one Ph.D research scholar. She is a reviewer of some International Journals and was session chair for some reputed international conferences. Dr. Archana R joined as a faculty in the Electrical &amp; Electronics Engineering Department, Federal Institute of Science and Technology, Angamaly, Kerala, India in the year 2002 and continues there till date. In addition to the academic works she has been the staff in charge- Arts club FISAT from 2008-2018 and was instrumental in the coordination of inter and intra collegiate arts festivals “Bharatham” and “Arangu” during her tenure. She had received the Best Teacher Award FISAT in the year 2010. She has authored around 20 national and international journal and conference papers and some of them received best paper awards. Her areas of interest are nonlinear dynamics, System Modelling, Chaotic System Theory, Soft Computing Techniques, Electrical Machines etc. Dr. Archana R has secured a 20 year patent on ‘Wireless Sensor Networks Lifetime Maximization through Energy-Driven Partioning’.</p>"
+  },
+  {
+   "img": "{{root}}assets/img/fisat/2022-07-jyothish.webp",
+   "name": "Dr. Jyothish K John",
+   "role": "Dean (Examinations & Evaluation) / Controller of Examinations",
+   "bio": "<p> Dr. Jyothish K. John is presently working as Dean (Examinations &amp; Evaluation / Controller of Examinations). He earned a Bachelor of Engineering (BE) in 2003 from M.S. University, a Master’s in Computer Science and Engineering in 2007 from Karunya University in Coimbatore, and Ph.D. in 2018 from the Noorul Islam Centre for Higher Education. He joined FISAT in June 2004. His research interests pertain to the areas of Computer Networks, Distributed Systems and Cloud Computing. Dr. Jyothish K. John has published more than 18 research papers in various international journals and conferences. He has also been granted a patent. He has 19 years of teaching experience. He is a resource person and has handled expert classes and workshops in the areas of Cloud Computing, Network Simulators and Distributed Computing. He has attended more than 15 workshops and conferences. Dr. Jyothish K. John is a Certified AWS Cloud Practitioner. He has served as a reviewer for international journals and as a session chair for prestigious international conferences. He has organized 3 International conferences. The institution has recognized his contribution by Presenting the ‘Best Teacher Award’ in 2016.</p>"
+  },
+  {
+   "img": "{{root}}assets/img/fisat/2022-10-0a3a3969.webp",
+   "name": "Dr. Sumanlal M R",
+   "role": "Dean (Student Welfare & Alumni Affairs)",
+   "bio": "<p> Dr. Sumanlal M R is currently a Dean (Student Welfare &amp; Alumni Affairs) &amp; Professor in the Department of Mechanical Engineering at Federal Institute of Science and Technology, Angamaly. He joined as an Assistant Professor in the Department of Mechanical Engineering in July 2011. He earned his doctorate in Mechanical Engineering from National Institute of Technology Karnataka, Surathkal. He completed M.Tech in Heat Power Engineering from National Institute of Technology Karnataka, Surathkal in 2007. His bachelor degree is from Mar Athanasius College of Engineering, Kothamangalam. He started his career as a Lecturer in Mechanical Engineering at Adi Shankara Institute of Engineering and Technology, Kalady in 2002 and later joined SCMS school of Engineering and Technology in 2010. He has published Papers in the referred international journals and proceedings of international and national conferences. His research interests are in the areas of combustion, IC Engines and heat transfer.</p>"
+  },
+  {
+   "img": "{{root}}assets/img/fisat/2022-10-0a3a4505.webp",
+   "name": "Dr. Jose Cherian",
+   "role": "Dean (Quality Assurance & Admissions)",
+   "bio": "<p> Dr. Jose Cherian is a Mechanical Engineer who has been working with FISAT for the last 8 years. He has 16 years of teaching experience and 7 years experience in detailed engineering. He has completed his B-Tech degree in Mechanical Engineering from Govt Engineering college Thrissur and M-Tech from Cochin university of science and Technology, Cochin. After the B-Tech programme he joined in M/s KITCO Ltd as a project engineer in the detailed engineering dept. He started his teaching carrier in M/s SCMS Cochin in 2001. He obtained his PhD from Karpagam University Coimbatore. He has been working with FISAT since 2001. His main areas of interest are micromachining and heat transfer. He guided many prestigious student projects which include Nut-mug cracking Machine, portable thermoelectric refrigerator using thermoelectric effect etc.</p>"
+  }
+ ],
+ "deptHeads": [
+  {
+   "img": "{{root}}assets/img/fisat/2022-06-0a3a4479.webp",
+   "name": "Dr. Anil Johny",
+   "role": "Associate Professor & HoD",
+   "dept": "Electronics & Instrumentation Engineering",
+   "phone": "04842725231",
+   "email": "hodeie@fisat.ac.in"
+  },
+  {
+   "img": "{{root}}assets/img/fisat/2022-06-0a3a4687.webp",
+   "name": "Dr. Bejoy Varghese",
+   "role": "Associate Professor & HoD",
+   "dept": "Electronics & Communication Engineering",
+   "phone": "04842725235",
+   "email": "hodece@fisat.ac.in"
+  },
+  {
+   "img": "{{root}}assets/img/fisat/2022-06-0a3a3763.webp",
+   "name": "Ms. Gisha P S",
+   "role": "Assistant Professor (Senior Grade) & HoD",
+   "dept": "Science & Humanities",
+   "phone": "04842725272",
+   "email": "hodsh@fisat.ac.in"
+  },
+  {
+   "img": "{{root}}assets/img/fisat/2022-07-0a3a2915.webp",
+   "name": "Dr. Kavitha P E",
+   "role": "Professor & HoD",
+   "dept": "Civil Engineering",
+   "phone": "04842725025",
+   "email": "hodce@fisat.ac.in"
+  },
+  {
+   "img": "{{root}}assets/img/fisat/2022-06-0a3a4617-1.webp",
+   "name": "Dr. Paul P Mathai",
+   "role": "Professor & HoD",
+   "dept": "Computer Science & Engineering",
+   "phone": "04842725029",
+   "email": "hodcse@fisat.ac.in"
+  },
+  {
+   "img": "{{root}}assets/img/fisat/2022-10-0a3a2884.webp",
+   "name": "Dr. Rejeesh C R",
+   "role": "Professor & HoD",
+   "dept": "Mechanical Engineering",
+   "phone": "04842725246",
+   "email": "hodme@fisat.ac.in"
+  },
+  {
+   "img": "{{root}}assets/img/fisat/2022-06-0a3a3802.webp",
+   "name": "Dr. Shahna K U",
+   "role": "Associate Professor & HoD",
+   "dept": "Computer Application",
+   "phone": "",
+   "email": "hodmca@fisat.ac.in"
+  },
+  {
+   "img": "{{root}}assets/img/fisat/2022-06-ssa.webp",
+   "name": "Dr. Surya Susan Alex",
+   "role": "Associate Professor & HoD",
+   "dept": "Electrical & Electronics Engineering",
+   "phone": "",
+   "email": "hodeee@fisat.ac.in"
+  }
+ ]
+}
