@@ -421,9 +421,9 @@ function buildHome() {
   };
 
   const main = `
-<section class="walk" data-walk data-frames="50" data-src="assets/images/hero-video/ezgif-frame-" aria-label="A walk through the FISAT gates">
+<section class="walk" data-walk data-frames="240" data-src="assets/images/hero-video/frame-" aria-label="A walk through the FISAT gates">
   <div class="walk__stage">
-    <img class="walk__poster" src="assets/images/hero-video/ezgif-frame-001.jpg" alt="The FISAT entrance arch on the road into Hormis Nagar campus">
+    <img class="walk__poster" src="assets/images/hero-video/frame-001.jpg" alt="The FISAT entrance arch on the road into Hormis Nagar campus">
     <canvas class="walk__canvas" aria-hidden="true"></canvas>
     <div class="walk__shade"></div>
     <div class="walk__grain"></div>
@@ -676,7 +676,7 @@ function buildHome() {
   write('index.html', documentFor(p, main, {
     bodyClass: 'is-home',
     beforeHeader: pre0,
-    extraHead: '<link rel="preload" as="image" href="assets/images/hero-video/ezgif-frame-001.jpg">\n',
+    extraHead: '<link rel="preload" as="image" href="assets/images/hero-video/frame-001.jpg">\n',
     scripts: '<script src="assets/js/hero.js" defer></script>',
   }), { title: 'Home', s: 'FISAT', f: true });
 }
