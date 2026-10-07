@@ -156,7 +156,8 @@
     for (const c of chapters) {
       const a = +c.dataset.in, b = +c.dataset.out;
       const fin = c.hasAttribute('data-final');
-      const o = (a <= 0 ? 1 : smooth(a - 0.06, a, p)) * (fin ? 1 : 1 - smooth(b, b + 0.06, p));
+      // 0.05 fade windows; chapter ranges are spaced so two chapters never overlap
+      const o = (a <= 0 ? 1 : smooth(a - 0.05, a, p)) * (fin ? 1 : 1 - smooth(b, b + 0.05, p));
       c.style.setProperty('--o', o.toFixed(3));
       c.classList.toggle('is-live', o > 0.02);
     }

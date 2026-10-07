@@ -564,6 +564,7 @@ ul, ol { margin: 0; padding: 0; }
 .prose ul li::marker { color: var(--saffron); }
 .prose li > ul, .prose li > ol { margin-top: .45em; }
 .prose img { border-radius: var(--radius); background: var(--sand); }
+.prose img[src$=".svg"] { width: 64px; height: auto; border-radius: 0; background: none; }
 .prose > img, .prose p > img:only-child, .prose a.zoom > img { width: 100%; }
 .prose a.zoom { display: block; text-decoration: none; cursor: zoom-in; }
 .prose iframe { width: 100%; aspect-ratio: 16 / 9; border: 0; border-radius: var(--radius); background: var(--sand); }
@@ -768,6 +769,10 @@ ul, ol { margin: 0; padding: 0; }
   .pager { grid-template-columns: 1fr; }
   .pager a.next { grid-column: 1; }
   .ticker__label span { display: none; }
+  .tabs { flex-wrap: nowrap; overflow-x: auto; max-width: 100%; scrollbar-width: none; }
+  .tabs::-webkit-scrollbar { display: none; }
+  .tab { flex: none; padding: 9px 14px; }
+  .walk__counter { display: none; }
   .logo-marquee img { height: 40px; }
 }
 

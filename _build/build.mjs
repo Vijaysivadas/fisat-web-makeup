@@ -428,21 +428,21 @@ function buildHome() {
     <div class="walk__shade"></div>
     <div class="walk__grain"></div>
     <div class="walk__chapters">
-      <div class="chapter" data-chapter data-in="0" data-out=".11" data-align="center">
+      <div class="chapter" data-chapter data-in="0" data-out=".10" data-align="center">
         <div class="chapter__inner">
           <span class="walk-kicker reveal-line">Federal Institute of Science And Technology</span>
           <h1 class="reveal-line">Focus on<br><em>Excellence.</em></h1>
           <p class="walk-lead reveal-line">An autonomous engineering &amp; management campus at Hormis Nagar, Angamaly — where Kerala’s engineers, managers and innovators are made.</p>
         </div>
       </div>
-      <div class="chapter" data-chapter data-in=".19" data-out=".34" data-align="left">
+      <div class="chapter" data-chapter data-in=".21" data-out=".34" data-align="left">
         <div class="chapter__inner">
           <span class="walk-kicker reveal-line">Est. 2002 · Promoted by FBOAES</span>
           <h2 class="reveal-line">Step through <em>the arch.</em></h2>
           <p class="walk-lead reveal-line">Founded by the officers of Federal Bank to build a centre of excellence in professional education — on the birthplace of K. P. Hormis.</p>
         </div>
       </div>
-      <div class="chapter" data-chapter data-in=".42" data-out=".58" data-align="right">
+      <div class="chapter" data-chapter data-in=".45" data-out=".56" data-align="right">
         <div class="chapter__inner">
           <span class="walk-kicker reveal-line">Accredited &amp; autonomous</span>
           <h2 class="reveal-line">Recognised for <em>quality.</em></h2>
@@ -454,7 +454,7 @@ function buildHome() {
           </div>
         </div>
       </div>
-      <div class="chapter" data-chapter data-in=".64" data-out=".79" data-align="left">
+      <div class="chapter" data-chapter data-in=".67" data-out=".78" data-align="left">
         <div class="chapter__inner">
           <span class="walk-kicker reveal-line">Past the gatehouse</span>
           <h2 class="reveal-line">Forty acres of <em>possibility.</em></h2>
@@ -466,7 +466,7 @@ function buildHome() {
           </div>
         </div>
       </div>
-      <div class="chapter" data-chapter data-final data-in=".87" data-out="1" data-align="center">
+      <div class="chapter" data-chapter data-final data-in=".89" data-out="1" data-align="center">
         <div class="chapter__inner">
           <span class="walk-kicker reveal-line">You have arrived</span>
           <h2 class="reveal-line" style="max-width:none">Welcome to <em>FISAT.</em></h2>
